@@ -1,0 +1,16 @@
+@font-face{font-family:"Condo Goldman";src:url("../04_Typography/fonts/Goldman-Regular.ttf") format("truetype");font-weight:400;font-display:swap}
+@font-face{font-family:Geist;src:url("../04_Typography/fonts/Geist-Regular.ttf") format("truetype");font-weight:400;font-display:swap}
+@font-face{font-family:Geist;src:url("../04_Typography/fonts/Geist-Medium.ttf") format("truetype");font-weight:500;font-display:swap}
+@font-face{font-family:Geist;src:url("../04_Typography/fonts/Geist-SemiBold.ttf") format("truetype");font-weight:600;font-display:swap}
+@font-face{font-family:"Geist Mono";src:url("../04_Typography/fonts/GeistMono-Regular.ttf") format("truetype");font-weight:400;font-display:swap}
+:root{
+  --cn-ink-950:#050B1A;--cn-ink-900:#0A1428;--cn-ink-800:#101E3A;--cn-ink-700:#172A4D;--cn-ink-600:#23385F;--cn-ink-500:#34507F;--cn-ink-400:#6B85AD;--cn-ink-300:#9AB0D0;--cn-ink-200:#C9D6EA;--cn-ink-100:#E6ECF6;
+  --cn-paper-50:#FAFBFD;--cn-paper-100:#F2F5F9;--cn-white:#FFFFFF;
+  --cn-signal-200:#C7ECFF;--cn-signal-300:#9ADFFF;--cn-signal-400:#74D1FF;--cn-signal-500:#5AC8FF;--cn-signal-600:#2F9BFF;--cn-signal-700:#1B6BFF;--cn-signal-800:#0B4BB5;
+  --cn-positive:#4ADE80;--cn-attention:#F6C453;--cn-alert:#FF6B5B;--cn-alert-light:#FF8A7A;--cn-alert-dark:#D94B3C;--cn-verified:#2DD4BF;--cn-analytical:#A78BFA;--cn-gold:#D9B85F;
+  --cn-font-brand:"Condo Goldman",sans-serif;--cn-font-sans:Geist,sans-serif;--cn-font-mono:"Geist Mono",monospace;
+  --cn-radius-sm:8px;--cn-radius-md:12px;--cn-radius-lg:18px;--cn-radius-xl:28px;
+  --cn-shadow-sm:0 1px 2px rgba(5,11,26,.12);--cn-shadow-md:0 12px 32px rgba(5,11,26,.16);--cn-shadow-lg:0 24px 72px rgba(5,11,26,.24);--cn-shadow-signal:0 0 0 1px rgba(90,200,255,.26),0 18px 64px rgba(27,107,255,.18);
+  --cn-gradient-signal:linear-gradient(135deg,#9ADFFF 0%,#5AC8FF 38%,#1B6BFF 100%);--cn-gradient-facet:linear-gradient(145deg,#19E0EA 0%,#2F9BFF 46%,#0B4BB5 100%);--cn-gradient-dark:linear-gradient(145deg,#050B1A 0%,#0A1428 56%,#101E3A 100%);
+  --cn-duration-fast:180ms;--cn-duration-standard:280ms;--cn-duration-deliberate:480ms;--cn-ease-standard:cubic-bezier(.2,.8,.2,1);--cn-ease-enter:cubic-bezier(.16,1,.3,1);
+}

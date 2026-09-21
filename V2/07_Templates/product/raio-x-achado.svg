@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title">
+  <title id="title">Condo Ninja, tela do Raio-X</title>
+  <rect width="1600" height="1000" fill="#050B1A"/><text x="90" y="90" font-family="Geist Mono" font-size="16" letter-spacing="2" fill="#5AC8FF">RAIO-X DO CONDOMÍNIO · ACHADO 04</text><text x="90" y="195" font-family="Geist" font-size="58" font-weight="600" letter-spacing="-2.3" fill="#FFFFFF"><tspan x="90">Contrato de elevadores</tspan><tspan x="90" dy="64">acima da faixa observada</tspan></text><rect x="90" y="382" width="930" height="360" rx="24" fill="#0A1428" stroke="#23385F"/><rect x="145" y="520" width="790" height="84" fill="#C7ECFF" fill-opacity=".12"/><text x="158" y="548" font-family="Geist Mono" font-size="14" fill="#9ADFFF">FAIXA COMPARÁVEL</text><path d="M145 640C260 630 360 600 470 574s220-24 330-88 105-42 135-60" fill="none" stroke="#5AC8FF" stroke-width="6"/><path d="M770 430v250" stroke="#FF6B5B" stroke-width="3" stroke-dasharray="10 10"/><text x="90" y="800" font-family="Geist" font-size="20" fill="#9AB0D0">Sinal, não conclusão. Diferenças de escopo, região e período precisam ser verificadas.</text><g transform="translate(1080 150)"><rect width="430" height="592" rx="24" fill="#FFFFFF"/><text x="34" y="58" font-family="Geist Mono" font-size="14" letter-spacing="1.5" fill="#0B4BB5">EVIDÊNCIAS</text><circle cx="42" cy="118" r="8" fill="#2DD4BF"/><text x="66" y="116" font-family="Geist" font-size="18" fill="#050B1A">Contrato atual</text><text x="66" y="142" font-family="Geist Mono" font-size="13" fill="#34507F">Confirmado</text><circle cx="42" cy="194" r="8" fill="#2DD4BF"/><text x="66" y="192" font-family="Geist" font-size="18" fill="#050B1A">12 notas fiscais</text><text x="66" y="218" font-family="Geist Mono" font-size="13" fill="#34507F">Confirmado</text><circle cx="42" cy="270" r="8" fill="#F6C453"/><text x="66" y="268" font-family="Geist" font-size="18" fill="#050B1A">3 cotações comparáveis</text><text x="66" y="294" font-family="Geist Mono" font-size="13" fill="#34507F">Parcial</text><circle cx="42" cy="346" r="8" fill="#FF6B5B"/><text x="66" y="344" font-family="Geist" font-size="18" fill="#050B1A">Escopo técnico</text><text x="66" y="370" font-family="Geist Mono" font-size="13" fill="#34507F">Ausente</text><rect x="34" y="452" width="362" height="1" fill="#C9D6EA"/><text x="34" y="497" font-family="Geist" font-size="18" font-weight="600" fill="#050B1A">Confiança do achado</text><text x="34" y="540" font-family="Geist Mono" font-size="28" fill="#F6C453">MÉDIA</text></g><g transform="translate(90 880)">
+  <defs>
+    <clipPath id="rx-shield"><path d="M160 0 320 78v143c0 44-22 82-56 109L160 400 56 330C22 303 0 265 0 221V78Z"/></clipPath>
+    <linearGradient id="rx-left" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17C7FF"/><stop offset=".54" stop-color="#1672FF"/><stop offset="1" stop-color="#0755E8"/></linearGradient>
+    <linearGradient id="rx-right" x1="1" y1="0" x2="0" y2="1"><stop stop-color="#19E0EA"/><stop offset=".56" stop-color="#159CFF"/><stop offset="1" stop-color="#10C6F4"/></linearGradient>
+    <linearGradient id="rx-lower-left" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0877FF"/><stop offset="1" stop-color="#004EEB"/></linearGradient>
+    <linearGradient id="rx-lower-right" x1="1" y1="0" x2="0" y2="1"><stop stop-color="#1ACAF5"/><stop offset="1" stop-color="#0A79FF"/></linearGradient>
+    <linearGradient id="rx-eye-l" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#E6ECF6"/></linearGradient>
+    <linearGradient id="rx-eye-r" x1="1" y1="0" x2="0" y2="1"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#E6ECF6"/></linearGradient>
+  </defs>
+  <g transform="translate(0 0) scale(0.11875 0.12)" clip-path="url(#rx-shield)">
+    <path d="M0 0h160v400H0Z" fill="url(#rx-left)"/>
+    <path d="M160 0h160v400H160Z" fill="url(#rx-right)"/>
+    <path d="M160 0 0 78v66l160 62Z" fill="#12BEFA" opacity=".92"/>
+    <path d="M160 0 320 78v66l-160 62Z" fill="#10D5EA" opacity=".94"/>
+    <path d="M0 78 160 0v72L0 144Z" fill="#24BFFF" opacity=".52"/>
+    <path d="M320 78 160 0v72l160 72Z" fill="#1AE3E9" opacity=".46"/>
+    <path d="M0 144 160 72v134Z" fill="#075BFA" opacity=".78"/>
+    <path d="m320 144-160-72v134Z" fill="#078DFF" opacity=".68"/>
+    <path d="M0 142 160 206l160-64v88l-160 64L0 230Z" fill="#050B1A"/>
+    <path d="m0 230 160 64v106L56 330C22 303 0 265 0 221Z" fill="url(#rx-lower-left)"/>
+    <path d="m320 230-160 64v106l104-70c34-27 56-65 56-109Z" fill="url(#rx-lower-right)"/>
+    <path d="m0 230 160 64v54L0 282Z" fill="#1498FF" opacity=".82"/>
+    <path d="m320 230-160 64v54l160-66Z" fill="#18C3F4" opacity=".88"/>
+    <path d="m0 282 160 66v52L56 330C22 303 0 265 0 221Z" fill="#0B65FF" opacity=".78"/>
+    <path d="m320 282-160 66v52l104-70c34-27 56-65 56-109Z" fill="#0BA8F7" opacity=".72"/>
+    <path d="M160 0v400" stroke="#9ADFFF" stroke-opacity=".18" stroke-width="2"/>
+    <path d="M64 180c27 5 50 18 67 41-25 1-46-6-62-20-7-7-10-14-11-23 2 0 4 1 6 2Z" fill="url(#rx-eye-l)"/>
+    <path d="M256 180c-27 5-50 18-67 41 25 1 46-6 62-20 7-7 10-14 11-23-2 0-4 1-6 2Z" fill="url(#rx-eye-r)"/>
+  </g><text x="56" y="36" font-family="Goldman" font-size="25" fill="#FFFFFF">Condo Ninja</text></g>
+</svg>

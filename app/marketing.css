@@ -1,0 +1,256 @@
+@font-face { font-family: "Condo Geist Mono"; src: url("/fonts/condo-geist-mono.woff2") format("woff2"); font-style: normal; font-weight: 100 900; font-display: swap; }
+.marketing-site {
+  --font-geist-sans: "Condo Geist";
+  --font-geist-mono: "Condo Geist Mono";
+  min-height: 100dvh;
+  background: #050b1a;
+  color: #e6ecf6;
+  font-family: "Condo Geist", ui-sans-serif, system-ui, sans-serif;
+  line-height: 1.5;
+  overflow-x: clip;
+  color-scheme: dark;
+}
+.marketing-site [id] { scroll-margin-top: 5.5rem; }
+.marketing-site .marketing-skip { position: absolute; top: 8px; left: 8px; z-index: 100; padding: 12px; background: #5ac8ff; color: #050b1a; transform: translateY(-200%); }
+.marketing-site .marketing-skip:focus { transform: none; }
+.marketing-site .marketing-logo { display: inline-flex; align-items: center; gap: 10px; color: #fff; font-family: "Condo Goldman", sans-serif; font-weight: 400; white-space: nowrap; }
+.marketing-site .marketing-logo img { width: 38px; height: 44px; object-fit: contain; }
+.marketing-site .marketing-logo span { font-size: 18px; }
+.marketing-site .marketing-start-card { border: 1px solid #23385f; border-radius: 22px; background: #101e3a; padding: 32px; box-shadow: 0 20px 50px #0003; }
+.marketing-site .marketing-start-card:focus { outline: none; }
+.marketing-site .marketing-email-form { position: relative; display: grid; gap: 12px; }
+.marketing-site .marketing-email-field { display: grid; gap: 8px; }
+.marketing-site .marketing-email-field label { color: #e6ecf6; font-size: 14px; font-weight: 600; }
+.marketing-site .marketing-email-field input { width: 100%; min-width: 0; min-height: 52px; padding: 12px 16px; border: 1px solid #334f78; border-radius: 12px; background: #091426; color: #e6ecf6; font-size: 16px; }
+.marketing-site .marketing-email-field input::placeholder { color: #8ca2c1; }
+.marketing-site .marketing-email-field input:focus-visible { outline: 2px solid #5ac8ff; outline-offset: 3px; border-color: #5ac8ff; }
+.marketing-site .marketing-email-notice { color: #9ab0d0; font-size: 13px; line-height: 1.5; }
+.marketing-site .marketing-email-error { border: 1px solid #8d4d5b; border-radius: 10px; padding: 10px 12px; color: #ffc4cb; background: #442235; font-size: 14px; }
+.marketing-site .marketing-email-trap { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+.marketing-site .marketing-note { margin-top: 20px; font-size: 14px; line-height: 1.6; color: #9ab0d0; }
+.marketing-site .marketing-logo:focus-visible { outline: 3px solid #5ac8ff; outline-offset: 4px; }
+
+.marketing-site #problema .pain-point-card {
+  box-shadow: 0 2px 5px rgb(10 20 40 / 0.07), 0 14px 32px -14px rgb(10 20 40 / 0.24);
+}
+
+/* The scanner spans the full blue banner, never the foreground cards. */
+.marketing-site .how-it-works { isolation: isolate; overflow: hidden; }
+.marketing-site .how-it-works-scanner { z-index: 0; }
+.marketing-site .how-it-works-content { position: relative; z-index: 1; }
+.marketing-site .how-it-works-card {
+  /* Same appearance as ink-950/60 over ink-900, but opaque to the scanner. */
+  background: #070f20;
+}
+
+/* A pointer-following lens reveals only the hovered cell, preserving the grid. */
+.marketing-site .discovery-card {
+  --discovery-x: 50%;
+  --discovery-y: 50%;
+  --discovery-radius: 112px;
+  position: relative;
+  height: 100%;
+  overflow: hidden;
+  isolation: isolate;
+}
+.marketing-site .discovery-card-trigger {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  display: grid;
+  place-items: center;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  padding: 24px;
+  color: #9adfff;
+  background: transparent;
+  font: inherit;
+  cursor: pointer;
+  touch-action: manipulation;
+}
+.marketing-site .discovery-card-trigger:focus-visible {
+  outline: 2px solid #5ac8ff;
+  outline-offset: -4px;
+}
+.marketing-site .discovery-card-cover {
+  display: grid;
+  justify-items: center;
+  transition: opacity 160ms ease;
+}
+.marketing-site .discovery-card-lock {
+  display: grid;
+  place-items: center;
+  width: 54px;
+  height: 54px;
+  border: 1px solid rgb(90 200 255 / 0.25);
+  border-radius: 16px;
+  background: rgb(90 200 255 / 0.07);
+}
+.marketing-site .discovery-card-content {
+  position: relative;
+  z-index: 0;
+  align-items: center;
+  text-align: center;
+  background: #0a1428;
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  /* A short feather softens the circular edge without revealing the whole card. */
+  -webkit-mask-image: radial-gradient(circle at var(--discovery-x) var(--discovery-y), #000 calc(var(--discovery-radius) - 14px), transparent var(--discovery-radius));
+  mask-image: radial-gradient(circle at var(--discovery-x) var(--discovery-y), #000 calc(var(--discovery-radius) - 14px), transparent var(--discovery-radius));
+  transition: opacity 180ms ease, visibility 180ms;
+}
+.marketing-site .discovery-card[data-lens="true"] .discovery-card-content,
+.marketing-site .discovery-card[data-expanded="true"] .discovery-card-content {
+  opacity: 1;
+  visibility: visible;
+}
+.marketing-site .discovery-card[data-expanded="true"] .discovery-card-content {
+  -webkit-mask-image: none;
+  mask-image: none;
+}
+.marketing-site .discovery-card[data-lens="true"] .discovery-card-cover,
+.marketing-site .discovery-card[data-expanded="true"] .discovery-card-cover {
+  opacity: 0;
+}
+.marketing-site .discovery-card-lens {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  width: calc(var(--discovery-radius) * 2);
+  height: calc(var(--discovery-radius) * 2);
+  transform: translate(calc(var(--discovery-x) - var(--discovery-radius)), calc(var(--discovery-y) - var(--discovery-radius)));
+  border: 1px solid rgb(90 200 255 / 0.22);
+  border-radius: 50%;
+  box-shadow: 0 0 22px rgb(33 153 255 / 0.1), inset 0 0 24px rgb(90 200 255 / 0.04);
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 180ms ease;
+}
+.marketing-site .discovery-card[data-lens="true"] .discovery-card-lens { opacity: 1; }
+@supports not (mask-image: radial-gradient(circle, #000, transparent)) {
+  .marketing-site .discovery-card-content { clip-path: circle(var(--discovery-radius) at var(--discovery-x) var(--discovery-y)); }
+  .marketing-site .discovery-card[data-expanded="true"] .discovery-card-content { clip-path: none; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .marketing-site .discovery-card-cover,
+  .marketing-site .discovery-card-content,
+  .marketing-site .discovery-card-lens { transition: none; }
+}
+
+/* Above the vignette, below the copy: pulses stay visible over the full grid. */
+.marketing-site .marketing-hero { isolation: isolate; }
+.marketing-site .marketing-hero-content { z-index: 2; }
+.marketing-site .hero-grid-pulses {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  overflow: hidden;
+  pointer-events: none;
+  user-select: none;
+}
+.marketing-site .hero-grid-pulse,
+.marketing-site .hero-grid-pulse-trail { position: absolute; top: 0; left: 0; }
+.marketing-site .hero-grid-pulse-trail {
+  opacity: 0;
+  filter: drop-shadow(0 0 4px rgb(39 151 255 / 0.8)) drop-shadow(0 0 9px rgb(39 151 255 / 0.4));
+}
+.marketing-site .hero-grid-pulse[data-axis="vertical"] .hero-grid-pulse-trail {
+  width: 1px;
+  height: var(--pulse-length);
+  background: linear-gradient(to bottom, transparent, rgb(43 142 255 / 0.35) 25%, #36aaff 65%, #99e4ff 91%, transparent);
+}
+.marketing-site .hero-grid-pulse[data-axis="horizontal"] .hero-grid-pulse-trail {
+  width: var(--pulse-length);
+  height: 1px;
+  background: linear-gradient(to right, transparent, rgb(43 142 255 / 0.35) 25%, #36aaff 65%, #99e4ff 91%, transparent);
+}
+@media (prefers-reduced-motion: reduce) {
+  .marketing-site .hero-grid-pulses { display: none; }
+}
+
+/* Match the hero's single-column layout below the existing lg breakpoint. */
+@media (width < 64rem) {
+  .marketing-site .marketing-hero-copy { text-align: center; }
+  .marketing-site .marketing-hero-description { margin-inline: auto; }
+  .marketing-site .marketing-hero-actions,
+  .marketing-site .marketing-hero-benefits { justify-content: center; }
+}
+
+/* Pointer-reactive background, confined below the final CTA's content. */
+.marketing-site .marketing-final-cta { isolation: isolate; }
+.marketing-site .marketing-cta-content { z-index: 1; }
+.marketing-site .ninja-grid-glow {
+  --ninja-x: 50%;
+  --ninja-y: 50%;
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+  user-select: none;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 450ms ease, visibility 450ms;
+}
+.marketing-site .ninja-grid-glow-lines {
+  position: absolute;
+  inset: 0;
+  /* Same origin and 48px spacing as the existing grid: only its color changes. */
+  background-image: linear-gradient(90deg, rgb(90 200 255 / 0.3) 1px, transparent 1px), linear-gradient(rgb(90 200 255 / 0.3) 1px, transparent 1px);
+  background-size: 48px 48px;
+  -webkit-mask-image: radial-gradient(circle 240px at var(--ninja-x) var(--ninja-y), transparent 28px, #000 90px, rgb(0 0 0 / 0.55) 145px, transparent 240px);
+  mask-image: radial-gradient(circle 240px at var(--ninja-x) var(--ninja-y), transparent 28px, #000 90px, rgb(0 0 0 / 0.55) 145px, transparent 240px);
+}
+.marketing-site .ninja-grid-glow-cursor {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 0;
+  transform: translate3d(var(--ninja-x), var(--ninja-y), 0);
+}
+.marketing-site .ninja-grid-glow-halo {
+  position: absolute;
+  width: 360px;
+  height: 360px;
+  left: -180px;
+  top: -180px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgb(90 200 255 / 0.025) 12%, rgb(33 153 255 / 0.13) 30%, rgb(33 153 255 / 0.05) 48%, transparent 70%);
+  animation: ninja-grid-breathe 3.6s ease-in-out infinite;
+  animation-play-state: paused;
+}
+.marketing-site .ninja-grid-glow-disc {
+  position: absolute;
+  top: -60px;
+  left: -60px;
+  width: 120px;
+  height: 120px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  border: 1px solid rgb(90 200 255 / 0.1);
+  background: radial-gradient(circle, rgb(5 11 26 / 0.95) 35%, rgb(5 11 26 / 0.75));
+  box-shadow: 0 0 25px rgb(33 153 255 / 0.08), inset 0 0 22px rgb(90 200 255 / 0.025);
+}
+.marketing-site .ninja-grid-glow-disc img {
+  width: 64px;
+  height: 78px;
+  object-fit: contain;
+  opacity: 0.2;
+}
+@keyframes ninja-grid-breathe {
+  0%, 100% { opacity: 0.5; transform: scale(0.92); }
+  50% { opacity: 1; transform: scale(1.06); }
+}
+@media (hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference) {
+  .marketing-site .ninja-grid-glow[data-active="true"] { opacity: 1; visibility: visible; }
+  .marketing-site .ninja-grid-glow[data-active="true"] .ninja-grid-glow-halo { animation-play-state: running; }
+}
+@media (prefers-reduced-motion: reduce), (hover: none), (pointer: coarse) {
+  .marketing-site .ninja-grid-glow { display: none; transition: none; }
+  .marketing-site .ninja-grid-glow-halo { animation: none; }
+}

@@ -1,0 +1,12 @@
+CONDO NINJA — TIPOGRAFIA
+
+Wordmark: Goldman Regular 400. Nunca simular bold, outline, bevel, stretch ou glow.
+Interface e conteúdo: Geist. Pesos previstos: 400, 500 e 600.
+Dados, labels, IDs e evidências: Geist Mono. Pesos previstos: 400 e 500.
+
+Goldman é usada somente no wordmark e em momentos de marca muito curtos. Não usar em parágrafos, tabelas ou headlines longas.
+Arquivos incluídos foram obtidos das versões distribuídas pelo Google Fonts e usam licença SIL Open Font License. Consulte FONT-LICENSES.txt antes de redistribuir.
+
+CSS principal:
+font-family: "Condo Goldman", sans-serif;
+font-weight: 400;

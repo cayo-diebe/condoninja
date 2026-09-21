@@ -1,0 +1,8 @@
+Goldman — SIL Open Font License 1.1
+https://fonts.google.com/specimen/Goldman
+
+Geist and Geist Mono — SIL Open Font License 1.1
+https://fonts.google.com/specimen/Geist
+https://fonts.google.com/specimen/Geist+Mono
+
+The included font files may be redistributed and embedded under their respective OFL terms. Font names and files must not be modified without observing Reserved Font Name provisions where applicable.

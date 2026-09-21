@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1580" height="317" viewBox="0 0 1580 317" role="img" aria-labelledby="title">
+  <title id="title">Condo Ninja, lockup horizontal</title>
+  <style>@font-face{font-family:'Goldman';src:url('../../04_Typography/fonts/Goldman-Regular.ttf')}text{font-family:'Goldman',sans-serif;font-weight:400}</style>
+  <defs>
+    <mask id="hm-cut"><path fill="#fff" d="M160 0 320 78v143c0 44-22 82-56 109L160 400 56 330C22 303 0 265 0 221V78Z"/><path fill="#000" d="M0 142 160 206l160-64v88l-160 64L0 230Z"/><path fill="#fff" d="M64 180c27 5 50 18 67 41-25 1-46-6-62-20-7-7-10-14-11-23 2 0 4 1 6 2ZM256 180c-27 5-50 18-67 41 25 1 46-6 62-20 7-7 10-14 11-23-2 0-4 1-6 2Z"/></mask>
+  </defs>
+  <g transform="translate(0 0) scale(0.80625 0.7925)"><rect width="320" height="400" fill="#FFFFFF" mask="url(#hm-cut)"/></g><text x="320" y="228" font-size="202" fill="#FFFFFF">Condo Ninja</text>
+</svg>

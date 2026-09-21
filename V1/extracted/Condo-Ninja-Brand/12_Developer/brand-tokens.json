@@ -1,0 +1,167 @@
+{
+  "$schema": "https://design-tokens.github.io/community-group/format/",
+  "name": "Condo Ninja Brand Tokens",
+  "version": "1.0.0",
+  "color": {
+    "ink": {
+      "100": "#E6ECF6",
+      "200": "#C9D6EA",
+      "300": "#9AB0D0",
+      "400": "#6B85AD",
+      "500": "#34507F",
+      "600": "#23385F",
+      "700": "#172A4D",
+      "800": "#101E3A",
+      "900": "#0A1428",
+      "950": "#050B1A"
+    },
+    "paper": {
+      "50": "#FAFBFD",
+      "100": "#F2F5F9"
+    },
+    "signal": {
+      "200": "#C7ECFF",
+      "300": "#9ADFFF",
+      "400": "#74D1FF",
+      "500": "#5AC8FF",
+      "600": "#2F9BFF",
+      "700": "#1B6BFF",
+      "800": "#0B4BB5"
+    },
+    "functional": {
+      "positive": "#4ADE80",
+      "attention": "#F6C453",
+      "alert": "#FF6B5B",
+      "alertLight": "#FF8A7A",
+      "alertDark": "#D94B3C",
+      "verified": "#2DD4BF",
+      "analytical": "#A78BFA"
+    },
+    "special": {
+      "gold": "#D9B85F"
+    },
+    "base": {
+      "white": "#FFFFFF",
+      "black": "#000000"
+    },
+    "semantic": {
+      "backgroundDark": "#050B1A",
+      "backgroundLight": "#FAFBFD",
+      "surfaceDark": "#0A1428",
+      "surfaceLight": "#FFFFFF",
+      "textOnDark": "#FAFBFD",
+      "textOnLight": "#050B1A",
+      "textMutedDark": "#9AB0D0",
+      "textMutedLight": "#23385F",
+      "focus": "#5AC8FF",
+      "link": "#1B6BFF",
+      "locked": "#6B85AD"
+    }
+  },
+  "typography": {
+    "family": {
+      "brand": "Goldman, sans-serif",
+      "sans": "Geist, sans-serif",
+      "mono": "Geist Mono, monospace"
+    },
+    "weight": {
+      "regular": 400,
+      "medium": 500,
+      "semibold": 600
+    },
+    "size": {
+      "xs": "0.75rem",
+      "sm": "0.875rem",
+      "md": "1rem",
+      "lg": "1.125rem",
+      "xl": "1.25rem",
+      "2xl": "1.5rem",
+      "3xl": "2rem",
+      "4xl": "2.75rem",
+      "5xl": "4rem",
+      "6xl": "5.5rem"
+    },
+    "lineHeight": {
+      "tight": 1.05,
+      "snug": 1.2,
+      "normal": 1.5,
+      "relaxed": 1.7
+    },
+    "tracking": {
+      "brand": "0",
+      "tight": "-0.025em",
+      "normal": "0",
+      "mono": "0.04em",
+      "caps": "0.12em"
+    }
+  },
+  "spacing": {
+    "0": "0",
+    "1": "0.25rem",
+    "2": "0.5rem",
+    "3": "0.75rem",
+    "4": "1rem",
+    "5": "1.25rem",
+    "6": "1.5rem",
+    "8": "2rem",
+    "10": "2.5rem",
+    "12": "3rem",
+    "16": "4rem",
+    "20": "5rem",
+    "24": "6rem",
+    "32": "8rem"
+  },
+  "radius": {
+    "xs": "4px",
+    "sm": "8px",
+    "md": "12px",
+    "lg": "18px",
+    "xl": "28px",
+    "full": "999px"
+  },
+  "border": {
+    "hairline": "1px",
+    "standard": "2px",
+    "emphasis": "3px"
+  },
+  "shadow": {
+    "sm": "0 1px 2px rgba(5,11,26,.12)",
+    "md": "0 12px 32px rgba(5,11,26,.16)",
+    "lg": "0 24px 72px rgba(5,11,26,.24)",
+    "signal": "0 0 0 1px rgba(90,200,255,.26), 0 18px 64px rgba(27,107,255,.18)"
+  },
+  "opacity": {
+    "disabled": 0.42,
+    "muted": 0.64,
+    "overlay": 0.78,
+    "faint": 0.08
+  },
+  "gradient": {
+    "signal": "linear-gradient(135deg, #9ADFFF 0%, #5AC8FF 38%, #1B6BFF 100%)",
+    "facet": "linear-gradient(145deg, #19E0EA 0%, #2F9BFF 46%, #0B4BB5 100%)",
+    "dark": "linear-gradient(145deg, #050B1A 0%, #0A1428 56%, #101E3A 100%)",
+    "reveal": "linear-gradient(90deg, transparent 0%, rgba(90,200,255,.22) 50%, transparent 100%)"
+  },
+  "motion": {
+    "duration": {
+      "instant": "120ms",
+      "fast": "180ms",
+      "standard": "280ms",
+      "deliberate": "480ms",
+      "ambient": "1200ms"
+    },
+    "easing": {
+      "standard": "cubic-bezier(.2,.8,.2,1)",
+      "enter": "cubic-bezier(.16,1,.3,1)",
+      "exit": "cubic-bezier(.7,0,.84,0)",
+      "linear": "linear"
+    }
+  },
+  "breakpoint": {
+    "xs": "320px",
+    "sm": "480px",
+    "md": "768px",
+    "lg": "1024px",
+    "xl": "1440px"
+  }
+}

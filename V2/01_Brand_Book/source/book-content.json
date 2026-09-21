@@ -1,0 +1,1437 @@
+[
+  {
+    "section": "A MARCA",
+    "title": "Clareza para quem\npaga condomínio.",
+    "lead": "Condo Ninja\nSistema de marca 2.0\nEstratégia, identidade e decisões de produto.",
+    "items": [],
+    "kind": "cover",
+    "asset": null
+  },
+  {
+    "section": "GUIA DE LEITURA",
+    "title": "Um sistema para usar.",
+    "lead": "A marca organiza informação para devolver capacidade de decisão. Este livro conecta essa ideia a regras, exemplos e arquivos editáveis.",
+    "items": [
+      {
+        "title": "01 / Estratégia e voz",
+        "body": "Por que existimos, para quem trabalhamos e como falamos."
+      },
+      {
+        "title": "02 / Identidade",
+        "body": "Símbolo, palavra, cor, tipografia e composição."
+      },
+      {
+        "title": "03 / Experiência e aplicações",
+        "body": "Dados, produto, mobilização, canais e governança."
+      },
+      {
+        "title": "04 / Implementação",
+        "body": "Tokens, acessibilidade, controle de qualidade e decisões abertas."
+      }
+    ],
+    "kind": "index",
+    "asset": null
+  },
+  {
+    "section": "RESUMO EXECUTIVO",
+    "title": "Uma segunda opinião\ndo lado de quem paga.",
+    "lead": "A Condo Ninja organiza documentos, contextualiza despesas e mostra quais perguntas merecem resposta.",
+    "items": [
+      {
+        "title": "Posicionamento",
+        "body": "Inteligência condominial independente para proprietários e moradores. A tecnologia apoia a análise. O benefício é entender e decidir."
+      },
+      {
+        "title": "Promessa",
+        "body": "Cada achado importante deve apresentar fonte, contexto, limitações e um próximo passo proporcional."
+      },
+      {
+        "title": "Expressão",
+        "body": "Ink cria um campo de leitura calmo. Signal destaca o que importa. O olhar do símbolo comunica atenção e precisão."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "CONTEXTO",
+    "title": "Quem paga precisa\nconseguir entender.",
+    "lead": "Síndico, administradora e moradores lidam com a mesma estrutura a partir de posições diferentes.",
+    "items": [
+      {
+        "title": "Gestão",
+        "body": "Síndico e administradora operam a gestão e produzem ou recebem documentos."
+      },
+      {
+        "title": "Proprietários e moradores",
+        "body": "Pagam as despesas e convivem com seus efeitos. Precisam de informação compreensível para participar."
+      },
+      {
+        "title": "Papel da marca",
+        "body": "Oferecer uma leitura independente. Respeitar atribuições formais e diferentes formas de participação, sem sugerir que todo morador possui o mesmo poder de voto."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "PROBLEMA",
+    "title": "A informação existe.\nA resposta ainda falta.",
+    "lead": "Balancetes, contratos e atas isolados não explicam, sozinhos, por que uma despesa mudou.",
+    "items": [
+      {
+        "title": "Perguntas reais",
+        "body": "Por que a taxa aumentou? O que este contrato inclui? Quais documentos ainda faltam?"
+      },
+      {
+        "title": "Custo da fragmentação",
+        "body": "Informações em arquivos e conversas diferentes dificultam a comparação e repetem o trabalho."
+      },
+      {
+        "title": "O que entregamos",
+        "body": "Uma leitura com contexto, evidências acessíveis e próximos passos que o morador consegue executar."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "PÚBLICO",
+    "title": "Pessoas comuns.\nPatrimônio compartilhado.",
+    "lead": "O público central são proprietários e moradores de condomínios residenciais.",
+    "items": [
+      {
+        "title": "Proprietário que quer entender",
+        "body": "Precisa localizar o motivo de uma despesa e formular uma pergunta útil."
+      },
+      {
+        "title": "Morador que colabora",
+        "body": "Pode fornecer documentos e contexto, dentro das permissões aplicáveis."
+      },
+      {
+        "title": "Conselho e grupo de moradores",
+        "body": "Precisam reunir informações e coordenar decisões com responsabilidade."
+      },
+      {
+        "title": "Extensões futuras",
+        "body": "Investidores, compradores e profissionais de apoio. A diligência pré-compra não substitui o foco atual."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "INSIGHT",
+    "title": "Entender muda\na qualidade da pergunta.",
+    "lead": "O usuário não precisa se tornar contador para reconhecer uma lacuna, pedir um documento ou comparar dois escopos.",
+    "items": [
+      {
+        "title": "Informação",
+        "body": "Documentos e registros organizados."
+      },
+      {
+        "title": "Clareza",
+        "body": "O que os dados permitem afirmar e o que continua incerto."
+      },
+      {
+        "title": "Coordenação",
+        "body": "Pessoas colaborando com evidências e perguntas."
+      },
+      {
+        "title": "Decisão",
+        "body": "Uma ação proporcional à informação disponível."
+      }
+    ],
+    "kind": "sequence",
+    "asset": null
+  },
+  {
+    "section": "DIREÇÃO",
+    "title": "Clareza independente.",
+    "lead": "A essência reúne benefício e compromisso: tornar compreensível sem assumir o interesse de quem administra.",
+    "items": [
+      {
+        "title": "Propósito",
+        "body": "Reequilibrar o acesso à informação nos condomínios."
+      },
+      {
+        "title": "Missão",
+        "body": "Dar a proprietários e moradores contexto e ferramentas para entender despesas, avaliar informações e coordenar perguntas."
+      },
+      {
+        "title": "Visão",
+        "body": "Tornar a transparência verificável uma prática comum na vida condominial."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "VALORES",
+    "title": "Compromissos que\naparecem no produto.",
+    "lead": "Valores devem orientar decisões observáveis.",
+    "items": [
+      {
+        "title": "Independência",
+        "body": "Identificar fontes e conflitos de interesse. Não vincular conclusões a metas comerciais."
+      },
+      {
+        "title": "Evidência",
+        "body": "Permitir rastrear uma afirmação até a fonte e distinguir o que foi apenas informado."
+      },
+      {
+        "title": "Clareza",
+        "body": "Explicar limites com a mesma atenção dedicada aos resultados."
+      },
+      {
+        "title": "Participação responsável",
+        "body": "Convidar para colaborar, restringindo acesso a dados pessoais e documentos privados."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "PROMESSA",
+    "title": "Informação organizada.\nDecisão mais consciente.",
+    "lead": "A marca promete um método de esclarecimento, sem garantir economia ou antecipar o resultado de uma análise.",
+    "items": [
+      {
+        "title": "Prova necessária",
+        "body": "Fonte e período junto da afirmação. Método explícito quando existir comparação."
+      },
+      {
+        "title": "Limite assumido",
+        "body": "Quando faltar evidência, dizer o que falta e como isso afeta a leitura."
+      },
+      {
+        "title": "Regra comercial",
+        "body": "Nenhum pagamento muda uma conclusão ou confere um nível de governança."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "POSICIONAMENTO",
+    "title": "A segunda opinião\nindependente do condomínio.",
+    "lead": "Para proprietários e moradores que querem entender como os recursos do condomínio são utilizados, a Condo Ninja organiza documentos e contextualiza sinais para apoiar decisões com evidências.",
+    "items": [
+      {
+        "title": "Categoria",
+        "body": "Plataforma de inteligência e análise condominial."
+      },
+      {
+        "title": "Diferencial",
+        "body": "Independência combinada com rastreabilidade, comparação contextualizada e colaboração."
+      },
+      {
+        "title": "Razão para acreditar",
+        "body": "O produto mostra de onde veio a informação, o que foi verificado e qual é a limitação. Funcionalidades futuras devem ser apresentadas como futuras."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "PERSONALIDADE",
+    "title": "Competência calma.",
+    "lead": "O arquétipo orientador é o Sábio, com uma atitude protetora. Não há proporções numéricas ou pontuação psicológica a comunicar.",
+    "items": [
+      {
+        "title": "Precisa",
+        "body": "Nomeia o dado, a fonte e a unidade."
+      },
+      {
+        "title": "Curiosa",
+        "body": "Investiga explicações alternativas antes de concluir."
+      },
+      {
+        "title": "Incisiva",
+        "body": "Formula perguntas claras sem insinuar culpa."
+      },
+      {
+        "title": "Próxima",
+        "body": "Usa português cotidiano e explica o termo técnico quando necessário."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "VOZ",
+    "title": "Firme no método.\nCuidadosa na conclusão.",
+    "lead": "Toda comunicação distingue registro, interpretação e decisão.",
+    "items": [
+      {
+        "title": "Dado",
+        "body": "Registro observado: o documento informa R$ 1.800."
+      },
+      {
+        "title": "Sinal",
+        "body": "Comparação que merece atenção: o valor excede uma referência de escopo equivalente."
+      },
+      {
+        "title": "Hipótese",
+        "body": "Explicação a testar: o contrato pode incluir serviços adicionais."
+      },
+      {
+        "title": "Evidência e conclusão",
+        "body": "Uma fonte sustenta ou enfraquece a hipótese. A conclusão depende do conjunto, das lacunas e da avaliação responsável."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "MENSAGENS",
+    "title": "Quatro perguntas\norganizam a narrativa.",
+    "lead": "Cada mensagem parte de uma dúvida concreta do morador.",
+    "items": [
+      {
+        "title": "Para onde vai meu dinheiro?",
+        "body": "Organização documental e clareza financeira."
+      },
+      {
+        "title": "O que é possível comparar?",
+        "body": "Referências com período, unidade e escopo equivalentes."
+      },
+      {
+        "title": "Em que informação posso confiar?",
+        "body": "Fontes rastreáveis, limites e revisão."
+      },
+      {
+        "title": "O que podemos fazer agora?",
+        "body": "Solicitar documentos, perguntar com contexto e convidar para colaborar."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "MANIFESTO",
+    "title": "Quem paga merece entender.",
+    "lead": "Todo mês, o condomínio reúne recursos de muitas pessoas. Cada decisão afeta um patrimônio compartilhado.",
+    "items": [
+      {
+        "title": "Nossa atitude",
+        "body": "Organizar o que está disperso. Explicar o que parece complexo. Encontrar a pergunta que ainda não foi feita."
+      },
+      {
+        "title": "Nosso compromisso",
+        "body": "Mostrar a fonte. Reconhecer a lacuna. Considerar outra explicação. Corrigir quando novas evidências mudarem a leitura."
+      },
+      {
+        "title": "Nossa ambição",
+        "body": "Fazer a informação circular com responsabilidade, para que cada pessoa participe com mais clareza e cada decisão tenha uma base melhor."
+      }
+    ],
+    "kind": "manifesto",
+    "asset": null
+  },
+  {
+    "section": "ASSINATURAS",
+    "title": "Clareza para quem\npaga condomínio.",
+    "lead": "Tagline principal. Une benefício, público e categoria em uma frase simples.",
+    "items": [
+      {
+        "title": "Assinatura secundária",
+        "body": "A segunda opinião independente do seu condomínio."
+      },
+      {
+        "title": "Campanha",
+        "body": "Seu dinheiro merece um ninja. Usar acompanhada de contexto, sem transformar a análise em espetáculo."
+      },
+      {
+        "title": "Regra de escolha",
+        "body": "Uma assinatura por peça. A tagline não é obrigatória quando o contexto já explica o serviço."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "DESCRIÇÕES",
+    "title": "A mesma marca,\nem três extensões.",
+    "lead": "Textos editoriais com contagem verificada por palavras separadas por espaço.",
+    "items": [
+      {
+        "title": "10 palavras",
+        "body": "Inteligência independente para moradores entenderem despesas e decidirem com clareza."
+      },
+      {
+        "title": "30 palavras",
+        "body": "A Condo Ninja organiza documentos e contextualiza despesas para que proprietários e moradores entendam seu condomínio, façam perguntas melhores e participem das decisões com evidências, independência e clareza no cotidiano."
+      },
+      {
+        "title": "100 palavras",
+        "body": "A Condo Ninja é uma plataforma independente de inteligência condominial para proprietários e moradores. Organiza documentos, contextualiza despesas e reúne evidências para ajudar quem paga condomínio a compreender as decisões que afetam seu patrimônio. Seu Raio-X apresenta informações disponíveis, sinais que merecem atenção, lacunas e próximos passos. Comparações precisam considerar período, região, unidade e escopo. A tecnologia apoia a análise, enquanto conclusões exigem avaliação responsável. A proposta inclui colaboração entre moradores, respeitando permissões e privacidade. A marca não promete economia garantida nem transforma suspeitas em acusações. Seu compromisso é devolver clareza para que cada pessoa possa perguntar e decidir melhor."
+      }
+    ],
+    "kind": "copy",
+    "asset": null
+  },
+  {
+    "section": "INSTITUCIONAL",
+    "title": "Uma apresentação\nsem promessas prematuras.",
+    "lead": "A Condo Ninja é uma plataforma independente de inteligência condominial. Organiza documentos e informações para apoiar proprietários e moradores na compreensão de despesas, na formulação de perguntas e na participação responsável.",
+    "items": [
+      {
+        "title": "Elevator pitch",
+        "body": "Você paga condomínio, mas nem sempre consegue entender o que está por trás dos números. A Condo Ninja organiza os documentos e mostra o que merece atenção, com fonte, contexto e um próximo passo."
+      },
+      {
+        "title": "Complemento em inglês",
+        "body": "Condo Ninja is an independent condominium intelligence platform that helps residents understand expenses, trace evidence and ask better questions."
+      },
+      {
+        "title": "Uso no MVP",
+        "body": "Descrever apenas o que está disponível. Análise humana, benchmarking e módulos adicionais não devem aparecer como ativos se ainda estiverem em desenvolvimento."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "LINGUAGEM",
+    "title": "Uma frase pode mudar\na leitura de um achado.",
+    "lead": "Preferir informação verificável e convites à investigação.",
+    "items": [
+      {
+        "title": "Em vez de “Encontramos fraude”",
+        "body": "“Este pagamento precisa de documentação complementar.”"
+      },
+      {
+        "title": "Em vez de “Economize 30%”",
+        "body": "“Compare escopo e condições antes de avaliar uma oportunidade.”"
+      },
+      {
+        "title": "Em vez de “A IA comprovou”",
+        "body": "“A análise automática identificou um sinal que precisa de revisão.”"
+      },
+      {
+        "title": "Vocabulário útil",
+        "body": "Fonte, contexto, comparar, esclarecer, confirmar, documento, hipótese, revisão. Evitar culpado, desmascarar, garantido e suspeitas sem base."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "AÇÕES",
+    "title": "Cada CTA explica\no próximo passo.",
+    "lead": "O texto do botão descreve uma ação real, com resultado previsível.",
+    "items": [
+      {
+        "title": "Entrada",
+        "body": "Começar meu Raio-X. Explicar quais informações e documentos serão solicitados."
+      },
+      {
+        "title": "Durante a análise",
+        "body": "Ver fontes. Adicionar documento. Entender a comparação."
+      },
+      {
+        "title": "Colaboração",
+        "body": "Convidar moradores. Explicar o que o convidado poderá acessar antes de enviar."
+      },
+      {
+        "title": "Módulo adicional",
+        "body": "Conhecer a análise. Mostrar escopo, requisitos e preço quando definido, sem resultados fictícios atrás de bloqueios."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "IDENTIDADE",
+    "title": "Um olhar atento.\nUma assinatura consistente.",
+    "lead": "O ninja representa observação, preparo e precisão. O símbolo não precisa de armas, personagens ou efeitos para cumprir esse papel.",
+    "items": [],
+    "kind": "divider",
+    "asset": null
+  },
+  {
+    "section": "NOME",
+    "title": "Condo Ninja",
+    "lead": "C e N maiúsculos, com um espaço entre as palavras. Goldman Regular 400 no wordmark.",
+    "items": [
+      {
+        "title": "Em texto",
+        "body": "A marca é Condo Ninja. O domínio pretendido é condo.ninja."
+      },
+      {
+        "title": "Em arquivos",
+        "body": "Usar nomes técnicos com hífens: condo-ninja. Isso não muda a grafia pública."
+      },
+      {
+        "title": "Em aplicações",
+        "body": "Não juntar palavras, alterar o nome ou transformar letras em caixa alta como padrão do logo."
+      }
+    ],
+    "kind": "wordmark",
+    "asset": null
+  },
+  {
+    "section": "SÍMBOLO",
+    "title": "Preservar o olhar.",
+    "lead": "A silhueta facetada, a máscara e os olhos são os elementos de reconhecimento.",
+    "items": [
+      {
+        "title": "Fonte visual",
+        "body": "Os dois rasters de referência permanecem em 13_Reference_Assets."
+      },
+      {
+        "title": "Vetor recebido",
+        "body": "O pacote V1 contém uma reconstrução. V2 mantém seus caminhos sem redesenho e identifica sua origem."
+      },
+      {
+        "title": "Fidelidade",
+        "body": "A reconstrução tem diferenças visíveis de facetas e gradientes frente ao raster de referência. Não é apresentada como equivalência geométrica certificada."
+      }
+    ],
+    "kind": "symbol",
+    "asset": null
+  },
+  {
+    "section": "CONSTRUÇÃO",
+    "title": "Um arquivo mestre.\nNenhuma reconstrução casual.",
+    "lead": "Usar os arquivos fornecidos, sem remontar o símbolo com formas aproximadas.",
+    "items": [
+      {
+        "title": "Elementos invariáveis",
+        "body": "Proporção, direção do olhar, máscara, eixo central e contorno externo."
+      },
+      {
+        "title": "Adaptação permitida",
+        "body": "Escolher a versão full color, monocromática ou simplificada prevista no pacote."
+      },
+      {
+        "title": "Exportação",
+        "body": "Validar olhos, gradientes, recortes e transparência em cada formato. Uma imagem que parece correta no SVG pode falhar ao virar PDF."
+      }
+    ],
+    "kind": "symbol",
+    "asset": null
+  },
+  {
+    "section": "WORDMARK",
+    "title": "Goldman Regular.\nPeso 400.",
+    "lead": "O nome da marca mantém a personalidade original da Goldman. A interface usa outra hierarquia.",
+    "items": [
+      {
+        "title": "Construção",
+        "body": "Sem bold artificial, contorno, distorção horizontal, bevel ou glow."
+      },
+      {
+        "title": "Portabilidade",
+        "body": "Preferir SVG em curvas para fornecedores. O arquivo editável com texto exige Goldman Regular instalada."
+      },
+      {
+        "title": "Implementação",
+        "body": "font-family: \"Condo Goldman\", sans-serif; font-weight: 400; font-synthesis: none;"
+      }
+    ],
+    "kind": "wordmark",
+    "asset": null
+  },
+  {
+    "section": "LOCKUPS",
+    "title": "Uma assinatura\npara cada proporção.",
+    "lead": "Horizontal como padrão. Vertical para espaços estreitos ou quase quadrados. Símbolo isolado quando a marca já está identificada.",
+    "items": [
+      {
+        "title": "Horizontal",
+        "body": "Headers, rodapés, documentos, e-mails e apresentações."
+      },
+      {
+        "title": "Vertical",
+        "body": "Capas e aplicações com área de marca concentrada."
+      },
+      {
+        "title": "Wordmark isolado",
+        "body": "Somente quando o contexto já identifica a marca. Não acrescentar outro símbolo ao nome."
+      }
+    ],
+    "kind": "lockups",
+    "asset": null
+  },
+  {
+    "section": "PROTEÇÃO",
+    "title": "O espaço também\nfaz parte da marca.",
+    "lead": "x = 1/4 da largura visível do símbolo. Reservar no mínimo x ao redor do conjunto.",
+    "items": [
+      {
+        "title": "Medição",
+        "body": "Medir sobre a área visual, sem contar margens transparentes do arquivo."
+      },
+      {
+        "title": "Contexto denso",
+        "body": "Aumentar o respiro quando houver muitos elementos ou parceiro de marca."
+      },
+      {
+        "title": "Co-branding",
+        "body": "Separar assinaturas por pelo menos 2x. Identificar “dados fornecidos por” quando o parceiro é uma fonte, sem sugerir controle da análise."
+      }
+    ],
+    "kind": "clearspace",
+    "asset": null
+  },
+  {
+    "section": "ESCALA",
+    "title": "Reconhecível\nmesmo quando pequeno.",
+    "lead": "A legibilidade depende do tamanho real, do fundo e da densidade da tela.",
+    "items": [
+      {
+        "title": "16–24 px",
+        "body": "Usar o símbolo simplificado. Conferir os olhos a 100% e não ampliar para substituir o principal."
+      },
+      {
+        "title": "32 px ou mais",
+        "body": "Usar full color quando os detalhes continuarem legíveis."
+      },
+      {
+        "title": "Lockup",
+        "body": "Referência inicial: 120 px no digital e 28 mm na impressão. Aumentar quando o suporte ou a leitura exigir."
+      },
+      {
+        "title": "App e avatar",
+        "body": "Preservar área segura. As versões quadradas são próprias para recortes de plataforma."
+      }
+    ],
+    "kind": "sizes",
+    "asset": null
+  },
+  {
+    "section": "FUNDOS",
+    "title": "Escolher a versão\nantes de aplicar.",
+    "lead": "Manter contraste e preservar a identidade dos componentes.",
+    "items": [
+      {
+        "title": "Fundo escuro",
+        "body": "Símbolo full color e wordmark branco."
+      },
+      {
+        "title": "Fundo claro",
+        "body": "Símbolo full color e wordmark Ink 950."
+      },
+      {
+        "title": "Uma tinta",
+        "body": "Usar o mestre monocromático apropriado, sem converter o gradiente automaticamente."
+      },
+      {
+        "title": "Uso incorreto",
+        "body": "Não esticar, inclinar, recolorir, esconder olhos, aplicar sombra de efeito ou reduzir até perder leitura."
+      }
+    ],
+    "kind": "lockups",
+    "asset": null
+  },
+  {
+    "section": "CORES",
+    "title": "Ink sustenta.\nSignal destaca.",
+    "lead": "A marca combina profundidade escura com azul de sinal. Paper cria espaço para documentos e leitura prolongada.",
+    "items": [
+      {
+        "title": "Ink 950 / #050B1A",
+        "body": "Base institucional e superfícies escuras."
+      },
+      {
+        "title": "Signal 500 / #5AC8FF",
+        "body": "Acento principal sobre Ink. Usar texto Ink em botões claros."
+      },
+      {
+        "title": "Paper 50 / #FAFBFD",
+        "body": "Base de leitura e documentação."
+      },
+      {
+        "title": "Signal 700 / #1B6BFF",
+        "body": "Ação primária sobre superfície clara, com texto branco."
+      }
+    ],
+    "kind": "palette",
+    "asset": null
+  },
+  {
+    "section": "PALETA ESTENDIDA",
+    "title": "Profundidade\ncom funções claras.",
+    "lead": "As escalas completas permanecem nos tokens. Não escolher tons apenas por proximidade visual.",
+    "items": [
+      {
+        "title": "Ink",
+        "body": "950, 900 e 800: fundos. 600 e 500: texto em superfícies claras. 300 e 200: texto secundário em fundos escuros."
+      },
+      {
+        "title": "Signal",
+        "body": "500: assinatura e ação no tema escuro. 700: botão no tema claro. 800: link e foco no tema claro."
+      },
+      {
+        "title": "Gradientes",
+        "body": "Restritos ao símbolo e a campos gráficos de marca. Gráficos quantitativos usam cores estáveis."
+      },
+      {
+        "title": "Proporção",
+        "body": "Uma cor de destaque por hierarquia. Dar espaço ao conteúdo e evitar preencher cada componente de azul."
+      }
+    ],
+    "kind": "palette",
+    "asset": null
+  },
+  {
+    "section": "STATUS",
+    "title": "Cor acompanha\num significado escrito.",
+    "lead": "As cores funcionais são subordinadas à identidade. Um estado precisa continuar claro sem percepção de cor.",
+    "items": [
+      {
+        "title": "Concluído",
+        "body": "Check e rótulo. Verde indica uma etapa concluída, sem declarar boa governança."
+      },
+      {
+        "title": "Atenção",
+        "body": "Triângulo, motivo e ação. Âmbar indica revisão necessária."
+      },
+      {
+        "title": "Erro",
+        "body": "Mensagem do que falhou e como corrigir. Coral não indica culpa."
+      },
+      {
+        "title": "Verificado",
+        "body": "Identificar o objeto e o responsável pela verificação. Não confundir documento conferido com conclusão validada."
+      }
+    ],
+    "kind": "status",
+    "asset": null
+  },
+  {
+    "section": "ACESSIBILIDADE",
+    "title": "O par de cores\né a unidade de decisão.",
+    "lead": "V2 fornece pares semânticos próprios para temas claro e escuro, com contraste calculado.",
+    "items": [
+      {
+        "title": "Texto comum",
+        "body": "Exigir pelo menos 4,5:1. Não arredondar um resultado abaixo do limite para aprová-lo."
+      },
+      {
+        "title": "Controles e foco",
+        "body": "Borda funcional e indicador de foco precisam de contraste suficiente com a superfície adjacente."
+      },
+      {
+        "title": "Erros de V1 corrigidos",
+        "body": "Um único token de foco azul claro falha em fundo claro. V2 usa Signal 800 no claro e Signal 500 no escuro."
+      },
+      {
+        "title": "Auditoria",
+        "body": "Consultar 03_Color/contrast-audit.json. A aprovação dos pares não substitui a avaliação da interface completa."
+      }
+    ],
+    "kind": "contrast",
+    "asset": null
+  },
+  {
+    "section": "TIPOGRAFIA",
+    "title": "Três funções.\nUma hierarquia.",
+    "lead": "A marca, a leitura e os dados exigem ritmos diferentes.",
+    "items": [
+      {
+        "title": "Goldman Regular 400",
+        "body": "Assinatura. Usar apenas no wordmark e em pequenas expressões de marca."
+      },
+      {
+        "title": "Geist Sans 400 / 500 / 600",
+        "body": "Conteúdo, títulos, interface e comunicação."
+      },
+      {
+        "title": "Geist Mono 400 / 500",
+        "body": "Valores, identificadores, metadados e trechos técnicos. Números tabulares ajudam a comparação."
+      },
+      {
+        "title": "Licenças",
+        "body": "Conservar os avisos OFL junto às fontes. Conferir os textos de licença antes de redistribuir um subconjunto."
+      }
+    ],
+    "kind": "type",
+    "asset": null
+  },
+  {
+    "section": "ESCALA TIPOGRÁFICA",
+    "title": "Leitura antes\ndo efeito tipográfico.",
+    "lead": "No digital, corpo de 16–18 px e entrelinha de 1,5. Títulos grandes devem quebrar sem comprimir o conteúdo.",
+    "items": [
+      {
+        "title": "Display",
+        "body": "48–88 px, entrelinha de 1,02–1,1. Reservado à abertura."
+      },
+      {
+        "title": "Títulos",
+        "body": "H1 40–56 px. H2 30–40 px. H3 22–26 px."
+      },
+      {
+        "title": "Interface",
+        "body": "14–16 px em labels e controles. Evitar texto essencial abaixo de 14 px."
+      },
+      {
+        "title": "Refluxo",
+        "body": "Testar 320 px e ampliação de texto. Quebrar palavras longas e reorganizar colunas, em vez de esconder overflow."
+      }
+    ],
+    "kind": "type",
+    "asset": null
+  },
+  {
+    "section": "ICONOGRAFIA",
+    "title": "Objetos reconhecíveis.\nTraço preciso.",
+    "lead": "A família recebida contém 17 ícones funcionais em uma grade de 24 px.",
+    "items": [
+      {
+        "title": "Construção",
+        "body": "Traço de 1,8 px, terminais controlados e curvas econômicas. Não usar o símbolo como ícone de todas as funções."
+      },
+      {
+        "title": "Família",
+        "body": "Financeiro, contratos, fornecedores, elevadores, manutenção, obras, água, energia, documentos e governança."
+      },
+      {
+        "title": "Continuidade",
+        "body": "Jurídico, segurança, evidências, benchmark, investigação, comunidade e mobilização."
+      },
+      {
+        "title": "Acessibilidade",
+        "body": "Ícone decorativo recebe alt vazio. Ação sem texto precisa de nome acessível. Em estados relevantes, sempre incluir rótulo visível."
+      }
+    ],
+    "kind": "icons",
+    "asset": null
+  },
+  {
+    "section": "SISTEMA GRÁFICO",
+    "title": "A informação ganha\num campo de evidência.",
+    "lead": "O elemento proprietário da V2 é a relação visível entre afirmação, fonte e limite.",
+    "items": [
+      {
+        "title": "Faceta",
+        "body": "Concentra atenção em uma área, com formas derivadas do símbolo."
+      },
+      {
+        "title": "Campo de evidência",
+        "body": "Uma afirmação acompanhada por origem, período e situação da revisão."
+      },
+      {
+        "title": "Linha de relação",
+        "body": "Conecta dois elementos com significado. Evitar redes decorativas sem conteúdo."
+      },
+      {
+        "title": "Foco",
+        "body": "Um destaque por composição. Textura permanece subordinada à legibilidade."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "GRID E COMPOSIÇÃO",
+    "title": "Ordem que deixa\no conteúdo respirar.",
+    "lead": "Alinhamentos previsíveis reduzem esforço de leitura.",
+    "items": [
+      {
+        "title": "Desktop",
+        "body": "12 colunas, gutter de 24–32 px e largura de conteúdo limitada."
+      },
+      {
+        "title": "Mobile",
+        "body": "4 colunas, gutter de 16 px e controles com área de toque mínima de 44 px."
+      },
+      {
+        "title": "Ritmo",
+        "body": "Usar a escala de 4 px. Agrupar elementos relacionados e separar blocos com funções diferentes."
+      },
+      {
+        "title": "Editorial",
+        "body": "Alternar abertura expressiva e páginas de referência. Evitar repetir a mesma grade de cards em todo o material."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "IMAGEM",
+    "title": "Pessoas reais.\nContexto respeitado.",
+    "lead": "Fotografia deve mostrar a vida compartilhada no condomínio e a atenção às decisões cotidianas.",
+    "items": [
+      {
+        "title": "Moradores",
+        "body": "Participação natural, diversidade de idades e papéis. Evitar poses de executivos ou cenas de confronto."
+      },
+      {
+        "title": "Edifícios",
+        "body": "Arquitetura residencial, manutenção e espaços comuns. Não associar uma imagem real a um achado fictício."
+      },
+      {
+        "title": "Documentos",
+        "body": "Anonimizar dados e preservar a legibilidade do trecho que interessa."
+      },
+      {
+        "title": "Ilustração",
+        "body": "Facetas e relações entre informações. Personagens só em campanha específica, sem armas, infantilização ou estereótipos."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "DADOS",
+    "title": "Todo número precisa\nde uma pergunta e uma fonte.",
+    "lead": "A visualização explica uma comparação. Não serve apenas como textura tecnológica.",
+    "items": [
+      {
+        "title": "Unidade e período",
+        "body": "Identificar valores e datas junto do gráfico. Eixo de barras inicia em zero."
+      },
+      {
+        "title": "Linha e faixa",
+        "body": "Distinguir observação e referência com rótulos, marcas e estilos além da cor."
+      },
+      {
+        "title": "Ausência",
+        "body": "Usar traço e explicação. Nunca converter valor ausente em zero."
+      },
+      {
+        "title": "Conclusão",
+        "body": "Uma diferença numérica não identifica causa. Mostrar a lacuna que limita a interpretação."
+      }
+    ],
+    "kind": "chart",
+    "asset": null
+  },
+  {
+    "section": "BENCHMARK",
+    "title": "20% acima de qual base?",
+    "lead": "Demonstração fictícia: junho custa R$ 1.800 por elevador/mês. O limite superior ilustrativo é R$ 1.500.",
+    "items": [
+      {
+        "title": "Cálculo",
+        "body": "(1.800 / 1.500 - 1) × 100 = 20%. Comparação contra o limite superior, não contra a média."
+      },
+      {
+        "title": "Escopo",
+        "body": "Manutenção preventiva, sem peças ou modernização. Jan–jun de 2026. Amostra sintética de 12 observações."
+      },
+      {
+        "title": "Limitação",
+        "body": "Aditivo de escopo ausente. Os números não demonstram sobrepreço, economia recuperável ou irregularidade."
+      },
+      {
+        "title": "Próximo passo",
+        "body": "Solicitar o aditivo e confirmar peças, plantões e escopo antes de comparar."
+      }
+    ],
+    "kind": "chart",
+    "asset": null
+  },
+  {
+    "section": "CONFIANÇA",
+    "title": "Explicar a qualidade\nda evidência.",
+    "lead": "Um percentual como “78%” sugere precisão que a metodologia pode não sustentar. V2 usa uma descrição acompanhada de motivo.",
+    "items": [
+      {
+        "title": "Limitada",
+        "body": "Há lacunas relevantes ou comparabilidade insuficiente. Mostrar exatamente qual é a lacuna."
+      },
+      {
+        "title": "Contextualizada",
+        "body": "Fontes e escopo permitem uma comparação útil, ainda sujeita às limitações indicadas."
+      },
+      {
+        "title": "Revisada",
+        "body": "Uma pessoa responsável revisou a afirmação e registrou data, escopo e justificativa."
+      },
+      {
+        "title": "Dimensões separadas",
+        "body": "Completude documental, comparabilidade e revisão não são a mesma coisa. Não gerar uma nota geral sem método validado."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "PRODUTO",
+    "title": "Um achado completo\ncabe numa leitura.",
+    "lead": "A interface organiza o contexto antes de pedir uma decisão.",
+    "items": [
+      {
+        "title": "1 / Contexto",
+        "body": "Condomínio, período e indicação clara quando os dados são de demonstração."
+      },
+      {
+        "title": "2 / Achado",
+        "body": "Uma afirmação proporcional ao que a evidência sustenta."
+      },
+      {
+        "title": "3 / Base",
+        "body": "Gráfico, fonte, método, documentos faltantes e motivo do nível de confiança."
+      },
+      {
+        "title": "4 / Ação",
+        "body": "Próxima pergunta ou documento necessário. O microsite V2 inclui uma demonstração navegável dessa estrutura."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "ESTADOS",
+    "title": "O que aconteceu\ne o que fazer agora.",
+    "lead": "Estado comercial, estado de processamento e qualidade da evidência são eixos diferentes.",
+    "items": [
+      {
+        "title": "Processamento",
+        "body": "Recebido, em análise, concluído ou falhou. Prazo estimado só quando conhecido."
+      },
+      {
+        "title": "Documento faltante",
+        "body": "Nome do documento, impacto da ausência e como adicioná-lo."
+      },
+      {
+        "title": "Dado indisponível",
+        "body": "Motivo e possibilidade de obter o dado. Não desenhar um gráfico vazio com valores fictícios."
+      },
+      {
+        "title": "Módulo adicional",
+        "body": "Benefício, escopo, requisitos e ação comercial. Sem achados borrados, urgência fabricada ou selo comprado."
+      }
+    ],
+    "kind": "status",
+    "asset": null
+  },
+  {
+    "section": "MOBILE",
+    "title": "A evidência acompanha\na tela pequena.",
+    "lead": "A versão móvel preserva a mesma ordem de leitura, com menos elementos simultâneos.",
+    "items": [
+      {
+        "title": "Uma coluna",
+        "body": "Contexto, achado, gráfico, fonte e próximo passo."
+      },
+      {
+        "title": "Gráfico legível",
+        "body": "Rótulos resumidos, valores acessíveis em tabela e espaço para toque."
+      },
+      {
+        "title": "Ações",
+        "body": "Controles de pelo menos 44 px, foco visível e nome claro."
+      },
+      {
+        "title": "Sem cortes",
+        "body": "O conteúdo deve refluir. Tabelas extensas podem ter região própria de rolagem, identificada e acessível."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "MOBILIZAÇÃO",
+    "title": "Convidar para\nmelhorar a informação.",
+    "lead": "Uma comunidade útil começa com uma pergunta compartilhada e um objetivo compreensível.",
+    "items": [
+      {
+        "title": "Convite",
+        "body": "“Estamos reunindo os documentos para entender melhor as despesas. Você pode colaborar.”"
+      },
+      {
+        "title": "Antes de compartilhar",
+        "body": "Mostrar quem acessará o quê. O preview público nunca inclui moradores, unidades, valores privados ou acusações."
+      },
+      {
+        "title": "Colaboração",
+        "body": "Solicitar o documento necessário, explicar sua finalidade e registrar sua origem."
+      },
+      {
+        "title": "Coordenação",
+        "body": "Organizar perguntas para a próxima conversa ou assembleia, respeitando permissões e responsabilidades."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "SELO DE GOVERNANÇA",
+    "title": "Uma arquitetura\nque ainda exige método.",
+    "lead": "Os níveis 0–3 são conceitos de interface. Não são certificações emitidas.",
+    "items": [
+      {
+        "title": "Nível 0",
+        "body": "Base em formação. Estado inicial, nunca certificado."
+      },
+      {
+        "title": "Níveis 1–3",
+        "body": "Documentado, Verificável e Referência são nomes provisórios. Critérios e limiares ainda precisam de validação."
+      },
+      {
+        "title": "Em todos os protótipos",
+        "body": "Mostrar “CONCEITO / NÃO CERTIFICA”. Usar o mesmo azul e distinguir nível por número e texto."
+      },
+      {
+        "title": "Independência",
+        "body": "Pacote comercial, acesso a módulos e nível de governança permanecem sistemas separados."
+      }
+    ],
+    "kind": "seals",
+    "asset": null
+  },
+  {
+    "section": "VALIDAÇÃO DO SELO",
+    "title": "Um selo só vale\ncom escopo verificável.",
+    "lead": "A publicação futura precisa permitir entender e contestar o que foi avaliado.",
+    "items": [
+      {
+        "title": "Campos obrigatórios",
+        "body": "Identificador, condomínio, escopo, data da avaliação, validade, versão do método e responsável."
+      },
+      {
+        "title": "Ciclo de vida",
+        "body": "Proposto, em revisão, emitido, vencido, suspenso ou revogado."
+      },
+      {
+        "title": "Consulta pública",
+        "body": "Exibir apenas informações autorizadas. O detalhe documental continua sujeito a controle de acesso."
+      },
+      {
+        "title": "Antes de lançar",
+        "body": "Definir evidências, pesos, critérios de revisão, correção e contestação. Até lá, manter os visuais como conceitos."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "MOVIMENTO",
+    "title": "Uma mudança\nque ajuda a perceber.",
+    "lead": "Motion orienta atenção e confirma uma transição de estado.",
+    "items": [
+      {
+        "title": "Interação",
+        "body": "120–180 ms para feedback. Não atrasar a ação."
+      },
+      {
+        "title": "Revelação",
+        "body": "280–480 ms, easing cubic-bezier(.2,.8,.2,1). Evitar deslocamentos longos."
+      },
+      {
+        "title": "Scan",
+        "body": "Uma execução iniciada pelo usuário, até 1.200 ms. Não simular processamento de dados."
+      },
+      {
+        "title": "Redução de movimento",
+        "body": "Trocar animação por estado estático equivalente. Não esconder conteúdo antes do JavaScript ou depender de animação para entender."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "SOCIAL",
+    "title": "Uma pergunta útil\npor peça.",
+    "lead": "O sistema social aproxima a marca das decisões do cotidiano.",
+    "items": [
+      {
+        "title": "Instagram",
+        "body": "1080 × 1080 para uma ideia. Carrossel 1080 × 1350 para desenvolver uma pergunta em etapas."
+      },
+      {
+        "title": "Story",
+        "body": "1080 × 1920. Preservar áreas superiores e inferiores para controles da plataforma."
+      },
+      {
+        "title": "LinkedIn",
+        "body": "1200 × 627. Evidência e contexto com linguagem clara, sem transformar uma hipótese em manchete."
+      },
+      {
+        "title": "Regra editorial",
+        "body": "Títulos legíveis no celular. Um próximo passo. Dados de exemplo marcados como fictícios."
+      }
+    ],
+    "kind": "applications",
+    "asset": null
+  },
+  {
+    "section": "CARROSSEL",
+    "title": "Uma narrativa\nque termina em ação.",
+    "lead": "Cinco telas ajudam o morador a comparar um contrato com responsabilidade.",
+    "items": [
+      {
+        "title": "01 / A pergunta",
+        "body": "Este contrato está caro?"
+      },
+      {
+        "title": "02 / O escopo",
+        "body": "O que o serviço inclui e exclui?"
+      },
+      {
+        "title": "03 / A comparação",
+        "body": "Qual unidade, período e região estão sendo comparados?"
+      },
+      {
+        "title": "04 e 05 / A ação",
+        "body": "O que ainda falta? Solicite o documento e formule a pergunta com contexto."
+      }
+    ],
+    "kind": "applications",
+    "asset": null
+  },
+  {
+    "section": "DOCUMENTOS",
+    "title": "Uma leitura estável\npara registrar decisões.",
+    "lead": "O relatório HTML é a experiência principal. O PDF registra uma versão datada.",
+    "items": [
+      {
+        "title": "Capa A4",
+        "body": "Nome do relatório, período, escopo, versão e identificação do destinatário quando apropriado."
+      },
+      {
+        "title": "Corpo",
+        "body": "Resumo, achado, fontes, limitações, recomendações e histórico de mudanças."
+      },
+      {
+        "title": "Impressão",
+        "body": "A versão deste livro para impressão usa papel claro e formato A4 horizontal. É RGB, adequada a impressão de escritório."
+      },
+      {
+        "title": "Gráfica profissional",
+        "body": "Conversão CMYK, perfil ICC, sangria e prova de cor dependem do fornecedor. O PDF não é apresentado como PDF/X certificado."
+      }
+    ],
+    "kind": "report",
+    "asset": null
+  },
+  {
+    "section": "E-MAIL E NEWSLETTER",
+    "title": "O assunto informa.\nO conteúdo orienta.",
+    "lead": "O e-mail deve permitir entender a atualização sem expor o conteúdo privado da análise.",
+    "items": [
+      {
+        "title": "Assunto",
+        "body": "“Seu Raio-X recebeu novos documentos”. Evitar alerta acusatório ou informação sensível."
+      },
+      {
+        "title": "Corpo",
+        "body": "Explicar o que mudou, o que pode ser visto e qual é o próximo passo."
+      },
+      {
+        "title": "Assinatura",
+        "body": "Nome, função, Condo Ninja e canal institucional. Sem slogan concorrente."
+      },
+      {
+        "title": "Compatibilidade",
+        "body": "Usar HTML simples com fallback de fonte. Para wordmark em imagem, fornecer texto alternativo. Não depender de fontes web no cliente de e-mail."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "APRESENTAÇÕES",
+    "title": "Uma ideia central\npor lâmina.",
+    "lead": "O template 16:9 recebido permanece disponível e editável. A V2 acrescenta o livro como fonte editorial e exemplos de evidência com contexto.",
+    "items": [
+      {
+        "title": "Abertura",
+        "body": "Nome da análise, público, período e uma ideia principal."
+      },
+      {
+        "title": "Achado",
+        "body": "Dado, referência, limitação e próximo passo em ordem."
+      },
+      {
+        "title": "Discussão",
+        "body": "Perguntas a confirmar, documentos necessários e responsáveis quando definidos."
+      },
+      {
+        "title": "Encerramento",
+        "body": "Decisão pendente ou ação combinada. Nunca usar o selo como prova comercial de qualidade."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "MICROSITE",
+    "title": "A marca demonstrada\nem funcionamento.",
+    "lead": "O microsite V2 apresenta o conceito e permite explorar decisões de identidade e produto.",
+    "items": [
+      {
+        "title": "Identidade",
+        "body": "Comparação de fundos do logo, amostras de cor com cópia e hierarquia tipográfica."
+      },
+      {
+        "title": "Evidência",
+        "body": "Gráfico com eixos, faixa comparável, tabela acessível, fontes e lacunas em dados explicitamente fictícios."
+      },
+      {
+        "title": "Acessibilidade",
+        "body": "HTML semântico, navegação por teclado, foco, menu móvel, redução de movimento e refluxo."
+      },
+      {
+        "title": "Entrega",
+        "body": "Arquivos modulares e standalone. A versão standalone incorpora também os arquivos associados aos downloads."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "TOKENS",
+    "title": "Um nome semântico\npara cada função.",
+    "lead": "A cor primitiva descreve o tom. O token semântico descreve o papel no componente.",
+    "items": [
+      {
+        "title": "Primitivos",
+        "body": "Ink, Signal e Paper preservam a paleta estabelecida."
+      },
+      {
+        "title": "Temas",
+        "body": "background, surface, text, muted, action, onAction, focus e estados possuem valores próprios."
+      },
+      {
+        "title": "Componentes",
+        "body": "Área de toque, espessura de foco, entrelinha e largura de leitura formalizam regras de uso."
+      },
+      {
+        "title": "Consistência",
+        "body": "JSON é a fonte. CSS e arquivos de integração são gerados a partir dele. Não se declara compatibilidade DTCG sem formato tipado e validação."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "IMPLEMENTAÇÃO",
+    "title": "Integração gradual\nno produto existente.",
+    "lead": "O pacote V2 é independente e não altera a aplicação Next.js nem a publicação atual.",
+    "items": [
+      {
+        "title": "Primeiro",
+        "body": "Importar fontes e variables.css em um ambiente de revisão. Conferir caminhos e licenças."
+      },
+      {
+        "title": "Depois",
+        "body": "Substituir cores diretas por tokens semânticos nos componentes. Aplicar data-theme."
+      },
+      {
+        "title": "Compatibilidade",
+        "body": "A configuração Tailwind v3 usa ESM. A V2 também inclui mapeamento @theme para v4, sem exigir migração."
+      },
+      {
+        "title": "Revisão",
+        "body": "Verificar foco, contraste, estados de erro e ausência de dados em fluxos reais antes de adotar."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "GOVERNANÇA EDITORIAL",
+    "title": "Uma conclusão\nprecisa ter responsável.",
+    "lead": "Regras propostas para operar a marca com rastreabilidade.",
+    "items": [
+      {
+        "title": "Autor",
+        "body": "Registra fonte, período, método e limitação."
+      },
+      {
+        "title": "Revisor",
+        "body": "Avalia a afirmação, a comparabilidade e explicações alternativas."
+      },
+      {
+        "title": "Publicação",
+        "body": "Identifica versão, data e estado da revisão. Evita dados pessoais desnecessários."
+      },
+      {
+        "title": "Correção",
+        "body": "Preserva histórico, informa o que mudou e reavalia conclusões afetadas. Atribuições precisam ser formalizadas pela equipe."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "CHECKLIST",
+    "title": "Antes de usar.",
+    "lead": "Verificar a aplicação completa, além dos arquivos isolados.",
+    "items": [
+      {
+        "title": "Marca",
+        "body": "Condo Ninja, Goldman Regular 400, proporções e olhos preservados."
+      },
+      {
+        "title": "Informação",
+        "body": "Fonte, período, unidade, limites e dados fictícios identificados."
+      },
+      {
+        "title": "Experiência",
+        "body": "Foco visível, teclado, contraste, tamanho de toque, mobile e movimento reduzido."
+      },
+      {
+        "title": "Entrega",
+        "body": "Assets existentes, links válidos, licenças incluídas, índice e checksums atualizados."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "ARQUIVOS",
+    "title": "Uma entrega\nque se pode rastrear.",
+    "lead": "O índice relaciona caminho, tamanho, hash e origem de cada arquivo.",
+    "items": [
+      {
+        "title": "Preservado",
+        "body": "Logos, fontes e materiais V1 mantidos recebem identificação de origem no inventário."
+      },
+      {
+        "title": "Evoluído",
+        "body": "Brand Book, microsite, tokens, dados, selos, templates e especificações recebem nova revisão."
+      },
+      {
+        "title": "Editável",
+        "body": "Fontes JSON, Python, SVG, HTML, CSS e JavaScript acompanham o pacote."
+      },
+      {
+        "title": "Como começar",
+        "body": "Abrir START-HERE.html. Consultar 00_Review/REVIEW-V1.md para entender as decisões."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "DECISÕES ABERTAS",
+    "title": "Evoluir quando\na evidência permitir.",
+    "lead": "A V2 especifica o sistema sem inventar uma metodologia operacional que ainda não existe.",
+    "items": [
+      {
+        "title": "Símbolo",
+        "body": "Aprovar a equivalência do vetor recebido frente ao raster antes de nomeá-lo master definitivo."
+      },
+      {
+        "title": "Governança",
+        "body": "Validar critérios, pesos, validade e processo de contestação do selo."
+      },
+      {
+        "title": "Benchmark",
+        "body": "Definir amostra, recorte, atualização, comparabilidade e regras por categoria."
+      },
+      {
+        "title": "Produto",
+        "body": "Confirmar módulos disponíveis, revisão humana, preços e condições. Protótipos não provam capacidade implementada."
+      }
+    ],
+    "kind": "text",
+    "asset": null
+  },
+  {
+    "section": "FECHAMENTO",
+    "title": "A informação só ajuda\nquando se pode entendê-la.",
+    "lead": "Condo Ninja\nClareza para quem paga condomínio.\nSistema de marca 2.0",
+    "items": [],
+    "kind": "closing",
+    "asset": null
+  }
+]

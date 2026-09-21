@@ -1,0 +1,170 @@
+/* Visual identity from the reference Site. Restricted-area scope deliberately
+   leaves public pages, content, geometry and interaction behavior untouched. */
+@font-face {
+  font-family: "Condo Goldman";
+  src: url("/fonts/goldman-bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Condo Goldman";
+  src: url("/fonts/goldman-regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Condo Geist";
+  src: url("/fonts/condo-geist.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+.app-shell, .auth-page {
+  --ink: #e6ecf6;
+  --ink-soft: #9ab0d0;
+  --paper: #0a1428;
+  --surface: #101e3a;
+  --surface-muted: #172a4d;
+  --line: #23385f;
+  --brand: #5ac8ff;
+  --brand-dark: #9adfff;
+  --brand-soft: #142e4d;
+  --accent: #f1b94c;
+  --danger: #ffb3a8;
+  --danger-soft: #3a222b;
+  --success: #4ade80;
+  --shadow: 0 18px 50px #050b1a55, inset 0 1px 0 #c7ecff08;
+  color-scheme: dark;
+  color: var(--ink);
+  font-family: "Condo Geist", ui-sans-serif, system-ui, sans-serif;
+  background: radial-gradient(ellipse at 85% 0%, #1b6bff12, transparent 48%), var(--paper);
+}
+
+/* Authentication shares the app identity, without the sidebar Easter egg. */
+.auth-page { min-height: 100dvh; display: flex; flex-direction: column; align-items: center; justify-content: center; }
+.auth-page .auth-card { display: flex; flex-direction: column; justify-content: center; flex-shrink: 0; background: var(--surface); border-color: var(--line); box-shadow: var(--shadow); }
+.auth-page .auth-card > * { flex-shrink: 0; }
+.auth-page .auth-card > .brand { align-self: flex-start; }
+.auth-page .auth-card > .brand + .form-stack { margin-top: 28px; }
+.auth-page .auth-card > .brand + .auth-notice { margin-top: 28px; }
+.auth-page .brand { color: #fff; }
+.auth-page .brand-mark { width: 52px; height: 60px; flex: 0 0 52px; background: url("/condo-brand-transparent.png") center / contain no-repeat; color: transparent; border-radius: 0; }
+.auth-page .brand-name { font-family: "Condo Goldman", ui-sans-serif, sans-serif; font-weight: 400; letter-spacing: -.025em; }
+.auth-page h1 { font-weight: 600; letter-spacing: -.025em; }
+.auth-page :is(.field label, .button, .auth-switch a) { font-weight: 600; }
+.auth-page .input { background: #0a1428; border-color: #34507f; color: var(--ink); }
+.auth-page .input::placeholder { color: var(--ink-soft); opacity: 1; }
+.auth-page .input[aria-invalid="true"] { border-color: var(--danger); }
+.auth-page .button-primary { background: #5ac8ff; color: #050b1a; border-color: #74d1ff; box-shadow: 0 0 20px #5ac8ff18; }
+.auth-page .button-primary:hover:not(:disabled) { background: #9adfff; box-shadow: 0 0 26px #5ac8ff30; }
+.auth-page :is(.button, .input, a):focus-visible { outline: 3px solid #74d1ff; outline-offset: 3px; }
+.auth-page .auth-switch a:hover { color: #9adfff; text-decoration: underline; }
+.auth-page .input:autofill { box-shadow: inset 0 0 0 100px #0a1428; -webkit-text-fill-color: #e6ecf6; caret-color: #e6ecf6; }
+.auth-page ::selection { background: #2f9bff66; color: #fff; }
+
+.app-shell .app-sidebar { background: #050b1af5; border-color: #23385f; }
+.app-shell .brand-mark { width: 52px; height: 60px; flex: 0 0 52px; background: url("/condo-brand-transparent.png") center / contain no-repeat; color: transparent; border-radius: 0; }
+.app-shell .brand { color: #fff; font-weight: 700; letter-spacing: -.025em; }
+.app-shell .sidebar-brand .brand { position: relative; display: block; width: 100%; height: 60px; border-radius: 10px; }
+.app-shell .sidebar-brand .brand-mark {
+  position: absolute;
+  z-index: 2;
+  isolation: isolate;
+  left: calc(50% - 26px);
+  top: 0;
+  transition: left 360ms cubic-bezier(.22, 1, .36, 1);
+  background: none;
+}
+.app-shell .sidebar-brand .brand-mark::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: url("/condo-brand-transparent.png") center / contain no-repeat;
+  pointer-events: none;
+}
+.app-shell .sidebar-brand .brand-mark::before {
+  content: "";
+  position: absolute;
+  inset: 4px 0;
+  border-radius: 50%;
+  background: #2f9bff;
+  box-shadow: 0 0 18px 8px #2f9bff99;
+  filter: blur(10px);
+  opacity: 0;
+  z-index: -1;
+  pointer-events: none;
+}
+@keyframes brand-blue-pulse {
+  0%, 100% { opacity: 0; transform: scale(.7); }
+  40% { opacity: .85; transform: scale(1.2); }
+  65% { opacity: .45; transform: scale(1.05); }
+}
+.app-shell .sidebar-brand .brand-name {
+  font-family: "Condo Goldman", ui-sans-serif, sans-serif;
+  font-weight: 400;
+  position: absolute;
+  z-index: 1;
+  left: 62px;
+  top: 50%;
+  white-space: nowrap;
+  opacity: 0;
+  transform: translate(-14px, -50%);
+  transition: opacity 220ms ease, transform 360ms cubic-bezier(.22, 1, .36, 1);
+}
+.app-shell .sidebar-brand .brand.is-revealed .brand-mark { left: 0; transition-delay: 2200ms; }
+.app-shell .sidebar-brand .brand.is-revealed .brand-mark::before { animation: brand-blue-pulse 2200ms ease-in-out both; }
+.app-shell .sidebar-brand .brand.is-revealed .brand-name { opacity: 1; transform: translate(0, -50%); transition-delay: 2360ms; }
+.app-shell .sidebar-brand .brand:focus-visible { outline: 2px solid #74d1ff; outline-offset: 4px; }
+.app-shell :is(h1, h2, h3, h4) { font-weight: 600; letter-spacing: -.025em; }
+.app-shell :is(.nav-link, .nav-disabled, .step, .button, .field label) { font-weight: 600; }
+.app-shell .nav-disabled { color: #8297b5; }
+.app-shell .nav-link { transition: color 160ms ease, background-color 160ms ease, box-shadow 160ms ease; }
+.app-shell .nav-link[aria-current="page"] { box-shadow: inset 2px 0 #5ac8ff; }
+.app-shell :is(.panel, .onboarding-card, .document-group) { box-shadow: var(--shadow); }
+.app-shell .onboarding-card.onboarding-documents { box-shadow: none; }
+.app-shell :is(.user-chip, .step, .empty-state, .address-suggestions) { background: var(--surface); }
+.app-shell :is(.account-condominium-card, .category-card) { background: #0d1a31; }
+.app-shell .condominium-add { background: transparent; }
+.app-shell :is(.step.active, .step:not(:disabled):hover, .user-chip:hover, .user-chip[aria-current="page"], .category-card.dragging) { background: var(--brand-soft); }
+.app-shell .step.done { border-color: #28634f; }
+.app-shell :is(.input, .select, .textarea) { background: #0a1428; border-color: #34507f; }
+.app-shell :is(.input, .textarea)::placeholder { color: #9ab0d0; opacity: 1; }
+.app-shell #condo-city:disabled { background: #172338; border-color: #23385f; color: #8496b2; }
+.app-shell :is(.button-primary, .mobile-menu-toggle) { background: #5ac8ff; color: #050b1a; border-color: #74d1ff; box-shadow: 0 0 20px #5ac8ff18; }
+.app-shell :is(.button-primary, .mobile-menu-toggle):hover { background: #9adfff; box-shadow: 0 0 26px #5ac8ff30; }
+.app-shell :is(.button-secondary, .category-upload-control .button, .mobile-menu-close) { background: #172a4d; color: #e6ecf6; border-color: #34507f; }
+.app-shell .button-secondary:hover { background: #23385f; }
+.app-shell .button-danger { border-color: #75433f; }
+.app-shell .button-logout { background: #b72f36; color: #fff; }
+.app-shell .button-logout:hover:not(:disabled) { background: #98272e; }
+.app-shell :is(.button, .input, .select, .textarea, .category-toggle, .mobile-menu-toggle, .mobile-menu-close):focus-visible { outline-color: #74d1ff; }
+.app-shell :is(.nav-badge-pending, .account-condominium-badge-pending, .status-pill.pending, .required-label) { background: #3c3018; color: #ffdb83; }
+.app-shell .notice { background: #30291a; color: #efcf8e; }
+.app-shell .notice strong { color: #ffdf98; }
+.app-shell .recommended-label { background: #172a4d; }
+.app-shell .document-row { background: #172a4d; border-color: #34507f; }
+.app-shell .document-light { border-color: #9ab0d0; }
+.app-shell .document-light.required-pending { background: #ff8a7a; border-color: #ff8a7a; }
+.app-shell .document-light.received { background: #4ade80; border-color: #4ade80; box-shadow: 0 0 8px #4ade8026; }
+.app-shell .progress-track { background: #172a4d; }
+.app-shell .progress-value { background: linear-gradient(90deg, #1b6bff, #5ac8ff); }
+.app-shell .dropzone { background: #0d1a31; border-color: #34507f; }
+.app-shell .dropzone.dragging { background: var(--brand-soft); border-color: var(--brand); }
+.app-shell .form-success { background: #153629; color: #a2edbd; }
+.app-shell .sidebar-backdrop { background: #050b1ab3; backdrop-filter: blur(4px); }
+.app-shell ::selection { background: #2f9bff66; color: #fff; }
+@media (max-width: 720px) {
+  .app-shell .sidebar-brand .brand .brand-mark { left: 0; transition: none; }
+  .app-shell .sidebar-brand .brand .brand-name { opacity: 1; transform: translate(0, -50%); transition: none; }
+  .app-shell .sidebar-brand .brand .brand-mark::before,
+  .app-shell .sidebar-brand .brand.is-revealed .brand-mark::before { animation: none; opacity: 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .app-shell .nav-link { transition: none; }
+  .app-shell .sidebar-brand :is(.brand-mark, .brand-name) { transition: none; transition-delay: 0s; }
+  .app-shell .sidebar-brand .brand.is-revealed :is(.brand-mark, .brand-name) { transition-delay: 0s; }
+  .app-shell .sidebar-brand .brand.is-revealed .brand-mark::before { animation: none; }
+}

@@ -1,0 +1,32 @@
+GIMP Palette
+Name: Condo Ninja
+Columns: 5
+#
+5 11 26 ink950
+10 20 40 ink900
+16 30 58 ink800
+23 42 77 ink700
+35 56 95 ink600
+52 80 127 ink500
+107 133 173 ink400
+154 176 208 ink300
+201 214 234 ink200
+230 236 246 ink100
+250 251 253 paper50
+242 245 249 paper100
+199 236 255 signal200
+154 223 255 signal300
+116 209 255 signal400
+90 200 255 signal500
+47 155 255 signal600
+27 107 255 signal700
+11 75 181 signal800
+74 222 128 positive
+246 196 83 attention
+255 107 91 alert
+255 138 122 alertLight
+217 75 60 alertDark
+45 212 191 verified
+167 139 250 analytical
+217 184 95 gold
+255 255 255 white

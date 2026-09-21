@@ -1,0 +1,11 @@
+/* Import variables.css first, then this after your Tailwind v4 import. */
+@theme inline {
+ --color-cn-background: var(--cn-background);
+ --color-cn-surface: var(--cn-surface);
+ --color-cn-text: var(--cn-text);
+ --color-cn-accent: var(--cn-accent);
+ --color-cn-action: var(--cn-action);
+ --font-brand: "Condo Goldman", sans-serif;
+ --font-sans: Geist, sans-serif;
+ --font-mono: "Geist Mono", monospace;
+}

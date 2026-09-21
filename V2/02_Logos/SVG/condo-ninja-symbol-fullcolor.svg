@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="400" viewBox="0 0 320 400" role="img" aria-labelledby="title">
+  <title id="title">Condo Ninja, símbolo oficial vetorial</title>
+  
+  <defs>
+    <clipPath id="symbol-shield"><path d="M160 0 320 78v143c0 44-22 82-56 109L160 400 56 330C22 303 0 265 0 221V78Z"/></clipPath>
+    <linearGradient id="symbol-left" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17C7FF"/><stop offset=".54" stop-color="#1672FF"/><stop offset="1" stop-color="#0755E8"/></linearGradient>
+    <linearGradient id="symbol-right" x1="1" y1="0" x2="0" y2="1"><stop stop-color="#19E0EA"/><stop offset=".56" stop-color="#159CFF"/><stop offset="1" stop-color="#10C6F4"/></linearGradient>
+    <linearGradient id="symbol-lower-left" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0877FF"/><stop offset="1" stop-color="#004EEB"/></linearGradient>
+    <linearGradient id="symbol-lower-right" x1="1" y1="0" x2="0" y2="1"><stop stop-color="#1ACAF5"/><stop offset="1" stop-color="#0A79FF"/></linearGradient>
+    <linearGradient id="symbol-eye-l" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#E6ECF6"/></linearGradient>
+    <linearGradient id="symbol-eye-r" x1="1" y1="0" x2="0" y2="1"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#E6ECF6"/></linearGradient>
+  </defs>
+  <g transform="translate(0 0) scale(1 1)" clip-path="url(#symbol-shield)">
+    <path d="M0 0h160v400H0Z" fill="url(#symbol-left)"/>
+    <path d="M160 0h160v400H160Z" fill="url(#symbol-right)"/>
+    <path d="M160 0 0 78v66l160 62Z" fill="#12BEFA" opacity=".92"/>
+    <path d="M160 0 320 78v66l-160 62Z" fill="#10D5EA" opacity=".94"/>
+    <path d="M0 78 160 0v72L0 144Z" fill="#24BFFF" opacity=".52"/>
+    <path d="M320 78 160 0v72l160 72Z" fill="#1AE3E9" opacity=".46"/>
+    <path d="M0 144 160 72v134Z" fill="#075BFA" opacity=".78"/>
+    <path d="m320 144-160-72v134Z" fill="#078DFF" opacity=".68"/>
+    <path d="M0 142 160 206l160-64v88l-160 64L0 230Z" fill="#050B1A"/>
+    <path d="m0 230 160 64v106L56 330C22 303 0 265 0 221Z" fill="url(#symbol-lower-left)"/>
+    <path d="m320 230-160 64v106l104-70c34-27 56-65 56-109Z" fill="url(#symbol-lower-right)"/>
+    <path d="m0 230 160 64v54L0 282Z" fill="#1498FF" opacity=".82"/>
+    <path d="m320 230-160 64v54l160-66Z" fill="#18C3F4" opacity=".88"/>
+    <path d="m0 282 160 66v52L56 330C22 303 0 265 0 221Z" fill="#0B65FF" opacity=".78"/>
+    <path d="m320 282-160 66v52l104-70c34-27 56-65 56-109Z" fill="#0BA8F7" opacity=".72"/>
+    <path d="M160 0v400" stroke="#9ADFFF" stroke-opacity=".18" stroke-width="2"/>
+    <path d="M64 180c27 5 50 18 67 41-25 1-46-6-62-20-7-7-10-14-11-23 2 0 4 1 6 2Z" fill="url(#symbol-eye-l)"/>
+    <path d="M256 180c-27 5-50 18-67 41 25 1 46-6 62-20 7-7 10-14 11-23-2 0-4 1-6 2Z" fill="url(#symbol-eye-r)"/>
+  </g>
+</svg>

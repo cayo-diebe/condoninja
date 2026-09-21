@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="320"
+   height="400"
+   viewBox="0 0 320 400"
+   role="img"
+   aria-labelledby="title"
+   version="1.1"
+   id="svg80"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <title
+     id="title">Condo Ninja, símbolo oficial vetorial</title>
+  <defs
+     id="defs40">
+    <clipPath
+       id="symbol-shield">
+      <path
+         d="M160 0 320 78v143c0 44-22 82-56 109L160 400 56 330C22 303 0 265 0 221V78Z"
+         id="path3" />
+    </clipPath>
+    <linearGradient
+       id="symbol-left"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="1">
+      <stop
+         stop-color="#17C7FF"
+         id="stop6" />
+      <stop
+         offset=".54"
+         stop-color="#1672FF"
+         id="stop8" />
+      <stop
+         offset="1"
+         stop-color="#0755E8"
+         id="stop10" />
+    </linearGradient>
+    <linearGradient
+       id="symbol-right"
+       x1="1"
+       y1="0"
+       x2="0"
+       y2="1">
+      <stop
+         stop-color="#19E0EA"
+         id="stop13" />
+      <stop
+         offset=".56"
+         stop-color="#159CFF"
+         id="stop15" />
+      <stop
+         offset="1"
+         stop-color="#10C6F4"
+         id="stop17" />
+    </linearGradient>
+    <linearGradient
+       id="symbol-lower-left"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="1">
+      <stop
+         stop-color="#0877FF"
+         id="stop20" />
+      <stop
+         offset="1"
+         stop-color="#004EEB"
+         id="stop22" />
+    </linearGradient>
+    <linearGradient
+       id="symbol-lower-right"
+       x1="1"
+       y1="0"
+       x2="0"
+       y2="1">
+      <stop
+         stop-color="#1ACAF5"
+         id="stop25" />
+      <stop
+         offset="1"
+         stop-color="#0A79FF"
+         id="stop27" />
+    </linearGradient>
+    <linearGradient
+       id="symbol-eye-l"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="1">
+      <stop
+         stop-color="#FFFFFF"
+         id="stop30" />
+      <stop
+         offset="1"
+         stop-color="#E6ECF6"
+         id="stop32" />
+    </linearGradient>
+    <linearGradient
+       id="symbol-eye-r"
+       x1="1"
+       y1="0"
+       x2="0"
+       y2="1">
+      <stop
+         stop-color="#FFFFFF"
+         id="stop35" />
+      <stop
+         offset="1"
+         stop-color="#E6ECF6"
+         id="stop37" />
+    </linearGradient>
+  </defs>
+  <g
+     clip-path="url(#symbol-shield)"
+     id="g78">
+    <path
+       d="M 0,0 H 160 V 400 H 0 Z"
+       fill="url(#symbol-left)"
+       id="path42" />
+    <path
+       d="M 160,0 H 320 V 400 H 160 Z"
+       fill="url(#symbol-right)"
+       id="path44" />
+    <path
+       d="M 160,0 0,78 v 66 l 160,62 z"
+       fill="#12befa"
+       opacity="0.92"
+       id="path46" />
+    <path
+       d="m 160,0 160,78 v 66 l -160,62 z"
+       fill="#10d5ea"
+       opacity="0.94"
+       id="path48" />
+    <path
+       d="M 0,78 160,0 V 72 L 0,144 Z"
+       fill="#24bfff"
+       opacity="0.52"
+       id="path50" />
+    <path
+       d="M 320,78 160,0 v 72 l 160,72 z"
+       fill="#1ae3e9"
+       opacity="0.46"
+       id="path52" />
+    <path
+       d="M 0,144 160,72 v 134 z"
+       fill="#075bfa"
+       opacity="0.78"
+       id="path54" />
+    <path
+       d="M 320,144 160,72 v 134 z"
+       fill="#078dff"
+       opacity="0.68"
+       id="path56" />
+    <path
+       d="m 0,142 160,64 160,-64 v 88 L 160,294 0,230 Z"
+       fill="#050b1a"
+       id="path58" />
+    <path
+       d="m 0,230 160,64 V 400 L 56,330 C 22,303 0,265 0,221 Z"
+       fill="url(#symbol-lower-left)"
+       id="path60" />
+    <path
+       d="m 320,230 -160,64 v 106 l 104,-70 c 34,-27 56,-65 56,-109 z"
+       fill="url(#symbol-lower-right)"
+       id="path62" />
+    <path
+       d="m 0,230 160,64 v 54 L 0,282 Z"
+       fill="#1498ff"
+       opacity="0.82"
+       id="path64" />
+    <path
+       d="m 320,230 -160,64 v 54 l 160,-66 z"
+       fill="#18c3f4"
+       opacity="0.88"
+       id="path66" />
+    <path
+       d="m 0,282 160,66 v 52 L 56,330 C 22,303 0,265 0,221 Z"
+       fill="#0b65ff"
+       opacity="0.78"
+       id="path68" />
+    <path
+       d="m 320,282 -160,66 v 52 l 104,-70 c 34,-27 56,-65 56,-109 z"
+       fill="#0ba8f7"
+       opacity="0.72"
+       id="path70" />
+    <path
+       d="M 160,0 V 400"
+       stroke="#9adfff"
+       stroke-opacity="0.18"
+       stroke-width="2"
+       id="path72" />
+    <path
+       d="m 64,180 c 27,5 50,18 67,41 -25,1 -46,-6 -62,-20 -7,-7 -10,-14 -11,-23 2,0 4,1 6,2 z"
+       fill="url(#symbol-eye-l)"
+       id="path74" />
+    <path
+       d="m 256,180 c -27,5 -50,18 -67,41 25,1 46,-6 62,-20 7,-7 10,-14 11,-23 -2,0 -4,1 -6,2 z"
+       fill="url(#symbol-eye-r)"
+       id="path76" />
+  </g>
+</svg>

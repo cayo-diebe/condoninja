@@ -1,0 +1,66 @@
+{
+  "disclosure": "DADOS FICTÍCIOS PARA DEMONSTRAÇÃO. Não representam mercado ou condomínio real.",
+  "currency": "BRL",
+  "unit": "R$/elevador/mês",
+  "period": "Jan-Jun 2026",
+  "scope": "Manutenção preventiva de um elevador, sem peças ou modernização.",
+  "geography": "Recorte geográfico fictício; substituir antes de uso real.",
+  "sampleSize": 12,
+  "sampleType": "Amostra sintética, sem validade estatística",
+  "months": [
+    "Jan",
+    "Fev",
+    "Mar",
+    "Abr",
+    "Mai",
+    "Jun"
+  ],
+  "observed": [
+    1200,
+    1250,
+    1300,
+    1450,
+    1600,
+    1800
+  ],
+  "lower": [
+    1100,
+    1100,
+    1100,
+    1100,
+    1100,
+    1100
+  ],
+  "upper": [
+    1500,
+    1500,
+    1500,
+    1500,
+    1500,
+    1500
+  ],
+  "sources": [
+    {
+      "id": "DEMO-01",
+      "name": "Contrato de manutenção (fictício)",
+      "status": "disponível"
+    },
+    {
+      "id": "DEMO-02",
+      "name": "Tabela de preços comparáveis (sintética)",
+      "status": "disponível"
+    },
+    {
+      "id": "DEMO-03",
+      "name": "Aditivo de escopo",
+      "status": "faltante"
+    }
+  ],
+  "confidence": {
+    "label": "Limitada",
+    "reason": "O aditivo não está disponível e a amostra é sintética."
+  },
+  "finding": "Junho está 20% acima do limite superior ilustrativo.",
+  "formula": "(1800 / 1500 - 1) × 100 = 20%",
+  "nextStep": "Solicitar o aditivo e confirmar peças, plantões e escopo antes de comparar."
+}

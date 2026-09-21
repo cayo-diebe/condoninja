@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title">
+  <title id="title">Condo Ninja, rede de evidências</title>
+  <rect width="1200" height="800" fill="#050B1A"/><g stroke="#5AC8FF" stroke-opacity=".2" fill="none"><path d="M100 580 280 430 490 510 660 280 890 360 1080 170"/><path d="M280 430 380 210 660 280 810 610 1040 530"/><path d="M490 510 810 610 890 360"/></g><g fill="#050B1A" stroke="#5AC8FF" stroke-width="3"><circle cx="100" cy="580" r="10"/><circle cx="280" cy="430" r="12"/><circle cx="380" cy="210" r="8"/><circle cx="490" cy="510" r="10"/><circle cx="660" cy="280" r="15"/><circle cx="810" cy="610" r="9"/><circle cx="890" cy="360" r="11"/><circle cx="1040" cy="530" r="8"/><circle cx="1080" cy="170" r="10"/></g><circle cx="660" cy="280" r="42" fill="#5AC8FF" fill-opacity=".08"/>
+</svg>

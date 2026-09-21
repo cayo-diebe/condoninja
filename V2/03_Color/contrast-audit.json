@@ -1,0 +1,202 @@
+[
+  {
+    "theme": "light",
+    "foreground": "text",
+    "background": "background",
+    "foregroundHex": "#050B1A",
+    "backgroundHex": "#FAFBFD",
+    "ratio": 18.969,
+    "threshold": 4.5,
+    "pass": true
+  },
+  {
+    "theme": "light",
+    "foreground": "muted",
+    "background": "surface",
+    "foregroundHex": "#34507F",
+    "backgroundHex": "#FFFFFF",
+    "ratio": 8.077,
+    "threshold": 4.5,
+    "pass": true
+  },
+  {
+    "theme": "light",
+    "foreground": "accent",
+    "background": "background",
+    "foregroundHex": "#0B4BB5",
+    "backgroundHex": "#FAFBFD",
+    "ratio": 7.546,
+    "threshold": 4.5,
+    "pass": true
+  },
+  {
+    "theme": "light",
+    "foreground": "onAction",
+    "background": "action",
+    "foregroundHex": "#FFFFFF",
+    "backgroundHex": "#1B6BFF",
+    "ratio": 4.571,
+    "threshold": 4.5,
+    "pass": true
+  },
+  {
+    "theme": "light",
+    "foreground": "focus",
+    "background": "background",
+    "foregroundHex": "#0B4BB5",
+    "backgroundHex": "#FAFBFD",
+    "ratio": 7.546,
+    "threshold": 3,
+    "pass": true
+  },
+  {
+    "theme": "light",
+    "foreground": "positive",
+    "background": "positiveSurface",
+    "foregroundHex": "#166534",
+    "backgroundHex": "#DCFCE7",
+    "ratio": 6.492,
+    "threshold": 4.5,
+    "pass": true
+  },
+  {
+    "theme": "light",
+    "foreground": "attention",
+    "background": "attentionSurface",
+    "foregroundHex": "#854D0E",
+    "backgroundHex": "#FEF3C7",
+    "ratio": 6.153,
+    "threshold": 4.5,
+    "pass": true
+  },
+  {
+    "theme": "light",
+    "foreground": "alert",
+    "background": "alertSurface",
+    "foregroundHex": "#B42318",
+    "backgroundHex": "#FEE4E2",
+    "ratio": 5.45,
+    "threshold": 4.5,
+    "pass": true
+  },
+  {
+    "theme": "light",
+    "foreground": "verified",
+    "background": "verifiedSurface",
+    "foregroundHex": "#115E59",
+    "backgroundHex": "#CCFBF1",
+    "ratio": 6.73,
+    "threshold": 4.5,
+    "pass": true
+  },
+  {
+    "theme": "light",
+    "foreground": "controlBorder",
+    "background": "surface",
+    "foregroundHex": "#6B85AD",
+    "backgroundHex": "#FFFFFF",
+    "ratio": 3.761,
+    "threshold": 3,
+    "pass": true
+  },
+  {
+    "theme": "dark",
+    "foreground": "text",
+    "background": "background",
+    "foregroundHex": "#FAFBFD",
+    "backgroundHex": "#050B1A",
+    "ratio": 18.969,
+    "threshold": 4.5,
+    "pass": true
+  },
+  {
+    "theme": "dark",
+    "foreground": "muted",
+    "background": "surface",
+    "foregroundHex": "#9AB0D0",
+    "backgroundHex": "#0A1428",
+    "ratio": 8.303,
+    "threshold": 4.5,
+    "pass": true
+  },
+  {
+    "theme": "dark",
+    "foreground": "accent",
+    "background": "background",
+    "foregroundHex": "#5AC8FF",
+    "backgroundHex": "#050B1A",
+    "ratio": 10.419,
+    "threshold": 4.5,
+    "pass": true
+  },
+  {
+    "theme": "dark",
+    "foreground": "onAction",
+    "background": "action",
+    "foregroundHex": "#050B1A",
+    "backgroundHex": "#5AC8FF",
+    "ratio": 10.419,
+    "threshold": 4.5,
+    "pass": true
+  },
+  {
+    "theme": "dark",
+    "foreground": "focus",
+    "background": "background",
+    "foregroundHex": "#5AC8FF",
+    "backgroundHex": "#050B1A",
+    "ratio": 10.419,
+    "threshold": 3,
+    "pass": true
+  },
+  {
+    "theme": "dark",
+    "foreground": "positive",
+    "background": "positiveSurface",
+    "foregroundHex": "#4ADE80",
+    "backgroundHex": "#123327",
+    "ratio": 7.884,
+    "threshold": 4.5,
+    "pass": true
+  },
+  {
+    "theme": "dark",
+    "foreground": "attention",
+    "background": "attentionSurface",
+    "foregroundHex": "#F6C453",
+    "backgroundHex": "#302611",
+    "ratio": 9.17,
+    "threshold": 4.5,
+    "pass": true
+  },
+  {
+    "theme": "dark",
+    "foreground": "alert",
+    "background": "alertSurface",
+    "foregroundHex": "#FF8A7A",
+    "backgroundHex": "#341C23",
+    "ratio": 6.861,
+    "threshold": 4.5,
+    "pass": true
+  },
+  {
+    "theme": "dark",
+    "foreground": "verified",
+    "background": "verifiedSurface",
+    "foregroundHex": "#2DD4BF",
+    "backgroundHex": "#0C302E",
+    "ratio": 7.634,
+    "threshold": 4.5,
+    "pass": true
+  },
+  {
+    "theme": "dark",
+    "foreground": "controlBorder",
+    "background": "surface",
+    "foregroundHex": "#6B85AD",
+    "backgroundHex": "#0A1428",
+    "ratio": 4.882,
+    "threshold": 3,
+    "pass": true
+  }
+]
